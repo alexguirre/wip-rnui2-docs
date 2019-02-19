@@ -1,0 +1,1183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Title="Welcome" Url="html/dbc16338-b397-4d84-8ffb-e5c36b5ff9a6.htm" />
+  <HelpTOCNode Title="HUD Colors" Url="html/fb28dbd4-758e-46e4-8d06-75f250598760.htm" />
+  <HelpTOCNode Id="d69a7a90-db7c-45a1-b00f-e10d3da58bbf" Title="Reference" Url="html/R_Project_Documentation.htm">
+    <HelpTOCNode Id="35a3611b-42d9-4904-8cb7-5f28f1ee2128" Title="RAGENativeUI" Url="html/N_RAGENativeUI.htm">
+      <HelpTOCNode Id="00e3e389-418b-4ad4-9732-e5bb4a277a21" Title="Control Class" Url="html/T_RAGENativeUI_Control.htm">
+        <HelpTOCNode Id="af9857d3-1cd9-40ec-89ea-a9914752d756" Title="Control Constructor " Url="html/Overload_RAGENativeUI_Control__ctor.htm">
+          <HelpTOCNode Title="Control Constructor (Nullable(GameControl))" Url="html/M_RAGENativeUI_Control__ctor.htm" />
+          <HelpTOCNode Title="Control Constructor (Nullable(Keys), Nullable(GameControl))" Url="html/M_RAGENativeUI_Control__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="160b4081-bffe-4af1-80c5-7b3f3e0a2102" Title="Control Properties" Url="html/Properties_T_RAGENativeUI_Control.htm">
+          <HelpTOCNode Title="Key Property " Url="html/P_RAGENativeUI_Control_Key.htm" />
+          <HelpTOCNode Title="NativeControl Property " Url="html/P_RAGENativeUI_Control_NativeControl.htm" />
+          <HelpTOCNode Title="RepeatSteps Property " Url="html/P_RAGENativeUI_Control_RepeatSteps.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="41e75479-2ccb-47dc-b714-50dce408307f" Title="Control Methods" Url="html/Methods_T_RAGENativeUI_Control.htm">
+          <HelpTOCNode Title="IsDown Method " Url="html/M_RAGENativeUI_Control_IsDown.htm" />
+          <HelpTOCNode Title="WasJustPressed Method " Url="html/M_RAGENativeUI_Control_WasJustPressed.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="d5ca0da8-036d-4d65-a1c5-abd6ac0d3812" Title="Control Fields" Url="html/Fields_T_RAGENativeUI_Control.htm">
+          <HelpTOCNode Title="DefaultRepeatSteps Field" Url="html/F_RAGENativeUI_Control_DefaultRepeatSteps.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="c80fda9a-558b-4834-a33c-b121d2a0ffd8" Title="Control.RepeatStep Structure" Url="html/T_RAGENativeUI_Control_RepeatStep.htm">
+        <HelpTOCNode Title="Control.RepeatStep Constructor " Url="html/M_RAGENativeUI_Control_RepeatStep__ctor.htm" />
+        <HelpTOCNode Id="17a1a4cb-486e-477b-b7b5-82df006fde41" Title="RepeatStep Properties" Url="html/Properties_T_RAGENativeUI_Control_RepeatStep.htm">
+          <HelpTOCNode Title="Interval Property " Url="html/P_RAGENativeUI_Control_RepeatStep_Interval.htm" />
+          <HelpTOCNode Title="Time Property " Url="html/P_RAGENativeUI_Control_RepeatStep_Time.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="RepeatStep Methods" Url="html/Methods_T_RAGENativeUI_Control_RepeatStep.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="66105ad7-dabf-48d5-92b6-caa81fdbbf0d" Title="CustomTexture Class" Url="html/T_RAGENativeUI_CustomTexture.htm">
+        <HelpTOCNode Id="b9584e28-2c88-4593-b2e6-b3a4d37dc32d" Title="CustomTexture Properties" Url="html/Properties_T_RAGENativeUI_CustomTexture.htm">
+          <HelpTOCNode Title="CustomTexturesDictionary Property " Url="html/P_RAGENativeUI_CustomTexture_CustomTexturesDictionary.htm" />
+          <HelpTOCNode Title="IsUpdatable Property " Url="html/P_RAGENativeUI_CustomTexture_IsUpdatable.htm" />
+          <HelpTOCNode Title="IsValid Property " Url="html/P_RAGENativeUI_CustomTexture_IsValid.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="6130dbba-dd2a-4346-a8e5-c2b0d53ee69b" Title="CustomTexture Methods" Url="html/Methods_T_RAGENativeUI_CustomTexture.htm">
+          <HelpTOCNode Title="Dispose Method " Url="html/M_RAGENativeUI_CustomTexture_Dispose.htm" />
+          <HelpTOCNode Title="DoesCustomTextureExists Method " Url="html/M_RAGENativeUI_CustomTexture_DoesCustomTextureExists.htm" />
+          <HelpTOCNode Title="Finalize Method " Url="html/M_RAGENativeUI_CustomTexture_Finalize.htm" />
+          <HelpTOCNode Title="FromBitmap Method " Url="html/M_RAGENativeUI_CustomTexture_FromBitmap.htm" />
+          <HelpTOCNode Title="FromFile Method " Url="html/M_RAGENativeUI_CustomTexture_FromFile.htm" />
+          <HelpTOCNode Title="FromPixelData Method " Url="html/M_RAGENativeUI_CustomTexture_FromPixelData.htm" />
+          <HelpTOCNode Title="GetNumberOfCustomTextures Method " Url="html/M_RAGENativeUI_CustomTexture_GetNumberOfCustomTextures.htm" />
+          <HelpTOCNode Id="ca71c3c0-f451-476f-b144-a8f394af7fa4" Title="Update Method " Url="html/Overload_RAGENativeUI_CustomTexture_Update.htm">
+            <HelpTOCNode Title="Update Method (Byte[], Rectangle)" Url="html/M_RAGENativeUI_CustomTexture_Update.htm" />
+            <HelpTOCNode Title="Update Method (IntPtr, Rectangle)" Url="html/M_RAGENativeUI_CustomTexture_Update_1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="7428a35d-d395-4878-ae2a-b36a7949268b" Title="FrontendSound Class" Url="html/T_RAGENativeUI_FrontendSound.htm">
+        <HelpTOCNode Title="FrontendSound Constructor " Url="html/M_RAGENativeUI_FrontendSound__ctor.htm" />
+        <HelpTOCNode Id="dca64cba-4ca0-4e29-93de-fb8a2fbf2f94" Title="FrontendSound Properties" Url="html/Properties_T_RAGENativeUI_FrontendSound.htm">
+          <HelpTOCNode Title="Name Property " Url="html/P_RAGENativeUI_FrontendSound_Name.htm" />
+          <HelpTOCNode Title="Set Property " Url="html/P_RAGENativeUI_FrontendSound_Set.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="d1770693-123b-469f-b120-53b15006c86f" Title="FrontendSound Methods" Url="html/Methods_T_RAGENativeUI_FrontendSound.htm">
+          <HelpTOCNode Title="Play Method " Url="html/M_RAGENativeUI_FrontendSound_Play.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="HudColor Enumeration" Url="html/T_RAGENativeUI_HudColor.htm" />
+      <HelpTOCNode Id="c7719919-796f-42a9-97de-655af8b3e99d" Title="HudColorExtensions Class" Url="html/T_RAGENativeUI_HudColorExtensions.htm">
+        <HelpTOCNode Id="f6b29b0d-b258-4d33-a6b3-cd20b27e3830" Title="HudColorExtensions Methods" Url="html/Methods_T_RAGENativeUI_HudColorExtensions.htm">
+          <HelpTOCNode Title="GetColor Method " Url="html/M_RAGENativeUI_HudColorExtensions_GetColor.htm" />
+          <HelpTOCNode Title="GetName Method " Url="html/M_RAGENativeUI_HudColorExtensions_GetName.htm" />
+          <HelpTOCNode Title="SetColor Method " Url="html/M_RAGENativeUI_HudColorExtensions_SetColor.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="10cc411a-3b5d-47ba-898a-d0fb84c800c4" Title="Metadata Class" Url="html/T_RAGENativeUI_Metadata.htm">
+        <HelpTOCNode Title="Metadata Constructor " Url="html/M_RAGENativeUI_Metadata__ctor.htm" />
+        <HelpTOCNode Id="542944fd-6289-4cbe-be01-aa64c4e69449" Title="Metadata Methods" Url="html/Methods_T_RAGENativeUI_Metadata.htm">
+          <HelpTOCNode Title="ContainsKey Method " Url="html/M_RAGENativeUI_Metadata_ContainsKey.htm" />
+          <HelpTOCNode Title="ToDictionary Method " Url="html/M_RAGENativeUI_Metadata_ToDictionary.htm" />
+          <HelpTOCNode Title="TryGetIndex Method " Url="html/M_RAGENativeUI_Metadata_TryGetIndex.htm" />
+          <HelpTOCNode Title="TryGetMember Method " Url="html/M_RAGENativeUI_Metadata_TryGetMember.htm" />
+          <HelpTOCNode Id="6dc3ee2e-3ef0-453a-97ca-6e2a87bf43ce" Title="TryGetValue Method " Url="html/Overload_RAGENativeUI_Metadata_TryGetValue.htm">
+            <HelpTOCNode Title="TryGetValue Method (String, Object)" Url="html/M_RAGENativeUI_Metadata_TryGetValue.htm" />
+            <HelpTOCNode Title="TryGetValue(T) Method (String, T)" Url="html/M_RAGENativeUI_Metadata_TryGetValue__1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="TrySetIndex Method " Url="html/M_RAGENativeUI_Metadata_TrySetIndex.htm" />
+          <HelpTOCNode Title="TrySetMember Method " Url="html/M_RAGENativeUI_Metadata_TrySetMember.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="f9361dd8-bce4-4870-b587-ff748bf38af6" Title="PostFxAnimation Class" Url="html/T_RAGENativeUI_PostFxAnimation.htm">
+        <HelpTOCNode Id="1fe3c6d1-1dd1-4536-92e2-f2764648f2f1" Title="PostFxAnimation Properties" Url="html/Properties_T_RAGENativeUI_PostFxAnimation.htm">
+          <HelpTOCNode Title="CurrentAnimation Property " Url="html/P_RAGENativeUI_PostFxAnimation_CurrentAnimation.htm" />
+          <HelpTOCNode Title="Hash Property " Url="html/P_RAGENativeUI_PostFxAnimation_Hash.htm" />
+          <HelpTOCNode Title="Index Property " Url="html/P_RAGENativeUI_PostFxAnimation_Index.htm" />
+          <HelpTOCNode Title="IsActive Property " Url="html/P_RAGENativeUI_PostFxAnimation_IsActive.htm" />
+          <HelpTOCNode Title="IsValid Property " Url="html/P_RAGENativeUI_PostFxAnimation_IsValid.htm" />
+          <HelpTOCNode Title="LastAnimation Property " Url="html/P_RAGENativeUI_PostFxAnimation_LastAnimation.htm" />
+          <HelpTOCNode Title="LayerBlend Property " Url="html/P_RAGENativeUI_PostFxAnimation_LayerBlend.htm" />
+          <HelpTOCNode Title="Layers Property " Url="html/P_RAGENativeUI_PostFxAnimation_Layers.htm" />
+          <HelpTOCNode Title="MemoryAddress Property " Url="html/P_RAGENativeUI_PostFxAnimation_MemoryAddress.htm" />
+          <HelpTOCNode Title="Name Property " Url="html/P_RAGENativeUI_PostFxAnimation_Name.htm" />
+          <HelpTOCNode Title="NumberOfPostFxAnimations Property " Url="html/P_RAGENativeUI_PostFxAnimation_NumberOfPostFxAnimations.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="595fcb42-b0c0-4179-b09b-1f67913f896a" Title="PostFxAnimation Methods" Url="html/Methods_T_RAGENativeUI_PostFxAnimation.htm">
+          <HelpTOCNode Title="GetAll Method " Url="html/M_RAGENativeUI_PostFxAnimation_GetAll.htm" />
+          <HelpTOCNode Title="GetByHash Method " Url="html/M_RAGENativeUI_PostFxAnimation_GetByHash.htm" />
+          <HelpTOCNode Title="GetByIndex Method " Url="html/M_RAGENativeUI_PostFxAnimation_GetByIndex.htm" />
+          <HelpTOCNode Title="GetByName Method " Url="html/M_RAGENativeUI_PostFxAnimation_GetByName.htm" />
+          <HelpTOCNode Title="Start Method " Url="html/M_RAGENativeUI_PostFxAnimation_Start.htm" />
+          <HelpTOCNode Title="Stop Method " Url="html/M_RAGENativeUI_PostFxAnimation_Stop.htm" />
+          <HelpTOCNode Title="StopAll Method " Url="html/M_RAGENativeUI_PostFxAnimation_StopAll.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="cde44a22-242f-42af-93c2-c6b4c442066a" Title="PostFxAnimationLayer Class" Url="html/T_RAGENativeUI_PostFxAnimationLayer.htm">
+        <HelpTOCNode Id="36bac93b-42f9-4f92-9e60-52e1bbc5d1f2" Title="PostFxAnimationLayer Properties" Url="html/Properties_T_RAGENativeUI_PostFxAnimationLayer.htm">
+          <HelpTOCNode Title="AnimationMode Property " Url="html/P_RAGENativeUI_PostFxAnimationLayer_AnimationMode.htm" />
+          <HelpTOCNode Title="HoldDuration Property " Url="html/P_RAGENativeUI_PostFxAnimationLayer_HoldDuration.htm" />
+          <HelpTOCNode Title="InDuration Property " Url="html/P_RAGENativeUI_PostFxAnimationLayer_InDuration.htm" />
+          <HelpTOCNode Title="LoopMode Property " Url="html/P_RAGENativeUI_PostFxAnimationLayer_LoopMode.htm" />
+          <HelpTOCNode Title="MemoryAddress Property " Url="html/P_RAGENativeUI_PostFxAnimationLayer_MemoryAddress.htm" />
+          <HelpTOCNode Title="Modifier Property " Url="html/P_RAGENativeUI_PostFxAnimationLayer_Modifier.htm" />
+          <HelpTOCNode Title="OutDuration Property " Url="html/P_RAGENativeUI_PostFxAnimationLayer_OutDuration.htm" />
+          <HelpTOCNode Title="StartDelayDuration Property " Url="html/P_RAGENativeUI_PostFxAnimationLayer_StartDelayDuration.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="3cc79a48-6118-417d-90a4-54bef64a9ddb" Title="PostFxAnimationLayer Methods" Url="html/Methods_T_RAGENativeUI_PostFxAnimationLayer.htm">
+          <HelpTOCNode Title="IsValid Method " Url="html/M_RAGENativeUI_PostFxAnimationLayer_IsValid.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="PostFxAnimationLayerAnimationMode Enumeration" Url="html/T_RAGENativeUI_PostFxAnimationLayerAnimationMode.htm" />
+      <HelpTOCNode Id="7c638e77-f3b6-4e7c-9fc4-1720ed8270de" Title="PostFxAnimationLayerBlend Class" Url="html/T_RAGENativeUI_PostFxAnimationLayerBlend.htm">
+        <HelpTOCNode Id="c7d954dc-a356-4104-9f1c-52d6f6b1945c" Title="PostFxAnimationLayerBlend Properties" Url="html/Properties_T_RAGENativeUI_PostFxAnimationLayerBlend.htm">
+          <HelpTOCNode Title="AmplitudeNoise Property " Url="html/P_RAGENativeUI_PostFxAnimationLayerBlend_AmplitudeNoise.htm" />
+          <HelpTOCNode Title="Bias Property " Url="html/P_RAGENativeUI_PostFxAnimationLayerBlend_Bias.htm" />
+          <HelpTOCNode Title="Disabled Property " Url="html/P_RAGENativeUI_PostFxAnimationLayerBlend_Disabled.htm" />
+          <HelpTOCNode Title="Frequency Property " Url="html/P_RAGENativeUI_PostFxAnimationLayerBlend_Frequency.htm" />
+          <HelpTOCNode Title="FrequencyNoise Property " Url="html/P_RAGENativeUI_PostFxAnimationLayerBlend_FrequencyNoise.htm" />
+          <HelpTOCNode Title="LayerA Property " Url="html/P_RAGENativeUI_PostFxAnimationLayerBlend_LayerA.htm" />
+          <HelpTOCNode Title="LayerB Property " Url="html/P_RAGENativeUI_PostFxAnimationLayerBlend_LayerB.htm" />
+          <HelpTOCNode Title="MemoryAddress Property " Url="html/P_RAGENativeUI_PostFxAnimationLayerBlend_MemoryAddress.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="ec54acdb-ac9f-4542-8f98-c908d8029bc9" Title="PostFxAnimationLayerBlend Methods" Url="html/Methods_T_RAGENativeUI_PostFxAnimationLayerBlend.htm">
+          <HelpTOCNode Title="IsValid Method " Url="html/M_RAGENativeUI_PostFxAnimationLayerBlend_IsValid.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="PostFxAnimationLayerLoopMode Enumeration" Url="html/T_RAGENativeUI_PostFxAnimationLayerLoopMode.htm" />
+      <HelpTOCNode Id="804a2861-7744-4496-9c3b-c3742af9318e" Title="PostFxAnimationLayersCollection Class" Url="html/T_RAGENativeUI_PostFxAnimationLayersCollection.htm">
+        <HelpTOCNode Id="ab1a47df-8d58-4f4a-91ff-bbe88c791023" Title="PostFxAnimationLayersCollection Properties" Url="html/Properties_T_RAGENativeUI_PostFxAnimationLayersCollection.htm">
+          <HelpTOCNode Title="Count Property " Url="html/P_RAGENativeUI_PostFxAnimationLayersCollection_Count.htm" />
+          <HelpTOCNode Title="Item Property " Url="html/P_RAGENativeUI_PostFxAnimationLayersCollection_Item.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="d86676a1-d502-4f7a-9883-c932f77e37ce" Title="PostFxAnimationLayersCollection Methods" Url="html/Methods_T_RAGENativeUI_PostFxAnimationLayersCollection.htm">
+          <HelpTOCNode Title="GetEnumerator Method " Url="html/M_RAGENativeUI_PostFxAnimationLayersCollection_GetEnumerator.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="ed0fd83c-dcf6-438a-8c64-6bf2deb28dcb" Title="ScreenCoordsExtension Class" Url="html/T_RAGENativeUI_ScreenCoordsExtension.htm">
+        <HelpTOCNode Id="59a47b9b-79c2-471b-af76-3a09068a0c1d" Title="ScreenCoordsExtension Methods" Url="html/Methods_T_RAGENativeUI_ScreenCoordsExtension.htm">
+          <HelpTOCNode Id="6b76860e-a72d-420e-98ce-33826a551096" Title="Px Method " Url="html/Overload_RAGENativeUI_ScreenCoordsExtension_Px.htm">
+            <HelpTOCNode Title="Px Method (ValueTuple(Int32, Int32))" Url="html/M_RAGENativeUI_ScreenCoordsExtension_Px.htm" />
+            <HelpTOCNode Title="Px Method (ValueTuple(Single, Single))" Url="html/M_RAGENativeUI_ScreenCoordsExtension_Px_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="Rel Method " Url="html/M_RAGENativeUI_ScreenCoordsExtension_Rel.htm" />
+          <HelpTOCNode Id="4d288185-56ab-4192-88ad-ad9a529676c5" Title="XPx Method " Url="html/Overload_RAGENativeUI_ScreenCoordsExtension_XPx.htm">
+            <HelpTOCNode Title="XPx Method (Int32)" Url="html/M_RAGENativeUI_ScreenCoordsExtension_XPx.htm" />
+            <HelpTOCNode Title="XPx Method (Single)" Url="html/M_RAGENativeUI_ScreenCoordsExtension_XPx_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="XRel Method " Url="html/M_RAGENativeUI_ScreenCoordsExtension_XRel.htm" />
+          <HelpTOCNode Id="0196b037-2975-4a8d-891f-318c5c4904a3" Title="YPx Method " Url="html/Overload_RAGENativeUI_ScreenCoordsExtension_YPx.htm">
+            <HelpTOCNode Title="YPx Method (Int32)" Url="html/M_RAGENativeUI_ScreenCoordsExtension_YPx.htm" />
+            <HelpTOCNode Title="YPx Method (Single)" Url="html/M_RAGENativeUI_ScreenCoordsExtension_YPx_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="YRel Method " Url="html/M_RAGENativeUI_ScreenCoordsExtension_YRel.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="5228c31a-0fc3-43d5-bb13-15a0486c036e" Title="TextureDictionary Structure" Url="html/T_RAGENativeUI_TextureDictionary.htm">
+        <HelpTOCNode Title="TextureDictionary Constructor " Url="html/M_RAGENativeUI_TextureDictionary__ctor.htm" />
+        <HelpTOCNode Id="fad08bb2-3dee-4b5e-a5b1-1a53fa479045" Title="TextureDictionary Properties" Url="html/Properties_T_RAGENativeUI_TextureDictionary.htm">
+          <HelpTOCNode Title="IsLoaded Property " Url="html/P_RAGENativeUI_TextureDictionary_IsLoaded.htm" />
+          <HelpTOCNode Title="IsValid Property " Url="html/P_RAGENativeUI_TextureDictionary_IsValid.htm" />
+          <HelpTOCNode Title="Name Property " Url="html/P_RAGENativeUI_TextureDictionary_Name.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="6c9df15c-43fe-4d67-b935-26fd208d82df" Title="TextureDictionary Methods" Url="html/Methods_T_RAGENativeUI_TextureDictionary.htm">
+          <HelpTOCNode Title="Dismiss Method " Url="html/M_RAGENativeUI_TextureDictionary_Dismiss.htm" />
+          <HelpTOCNode Title="GetTextures Method " Url="html/M_RAGENativeUI_TextureDictionary_GetTextures.htm" />
+          <HelpTOCNode Title="Load Method " Url="html/M_RAGENativeUI_TextureDictionary_Load.htm" />
+          <HelpTOCNode Title="LoadAndWait Method " Url="html/M_RAGENativeUI_TextureDictionary_LoadAndWait.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="33d178f4-8149-4e36-b58d-98c1c2c2bdb7" Title="TextureDictionary Type Conversions" Url="html/Operators_T_RAGENativeUI_TextureDictionary.htm">
+          <HelpTOCNode Id="7d0b2621-d61d-4d02-abcd-09a2613cb0eb" Title="Implicit Conversion Operators" Url="html/Overload_RAGENativeUI_TextureDictionary_op_Implicit.htm">
+            <HelpTOCNode Title="Implicit Conversion (String to TextureDictionary)" Url="html/M_RAGENativeUI_TextureDictionary_op_Implicit_1.htm" />
+            <HelpTOCNode Title="Implicit Conversion (TextureDictionary to String)" Url="html/M_RAGENativeUI_TextureDictionary_op_Implicit.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="d11537bc-180e-4a04-8b2a-5a0df176424a" Title="TextureReference Class" Url="html/T_RAGENativeUI_TextureReference.htm">
+        <HelpTOCNode Id="adbe2872-b11b-47bc-bc4c-4b4aeeadb53b" Title="TextureReference Properties" Url="html/Properties_T_RAGENativeUI_TextureReference.htm">
+          <HelpTOCNode Title="Dictionary Property " Url="html/P_RAGENativeUI_TextureReference_Dictionary.htm" />
+          <HelpTOCNode Title="Height Property " Url="html/P_RAGENativeUI_TextureReference_Height.htm" />
+          <HelpTOCNode Title="Name Property " Url="html/P_RAGENativeUI_TextureReference_Name.htm" />
+          <HelpTOCNode Title="Width Property " Url="html/P_RAGENativeUI_TextureReference_Width.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="TextureReference Methods" Url="html/Methods_T_RAGENativeUI_TextureReference.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="5c22ce06-4351-4f27-a72b-aef917049566" Title="TimeCycleModifier Class" Url="html/T_RAGENativeUI_TimeCycleModifier.htm">
+        <HelpTOCNode Id="06375210-83ba-4e5d-9c71-61fbbcf65b00" Title="TimeCycleModifier Constructor " Url="html/Overload_RAGENativeUI_TimeCycleModifier__ctor.htm">
+          <HelpTOCNode Title="TimeCycleModifier Constructor (String, TimeCycleModifier)" Url="html/M_RAGENativeUI_TimeCycleModifier__ctor.htm" />
+          <HelpTOCNode Title="TimeCycleModifier Constructor (String, UInt32, ValueTuple(TimeCycleModifierModType, Single, Single)[])" Url="html/M_RAGENativeUI_TimeCycleModifier__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="fcf451d1-4731-4b83-9cbd-873b67895649" Title="TimeCycleModifier Properties" Url="html/Properties_T_RAGENativeUI_TimeCycleModifier.htm">
+          <HelpTOCNode Title="CurrentModifier Property " Url="html/P_RAGENativeUI_TimeCycleModifier_CurrentModifier.htm" />
+          <HelpTOCNode Title="Flags Property " Url="html/P_RAGENativeUI_TimeCycleModifier_Flags.htm" />
+          <HelpTOCNode Title="Hash Property " Url="html/P_RAGENativeUI_TimeCycleModifier_Hash.htm" />
+          <HelpTOCNode Title="Index Property " Url="html/P_RAGENativeUI_TimeCycleModifier_Index.htm" />
+          <HelpTOCNode Title="IsActive Property " Url="html/P_RAGENativeUI_TimeCycleModifier_IsActive.htm" />
+          <HelpTOCNode Title="IsInTransition Property " Url="html/P_RAGENativeUI_TimeCycleModifier_IsInTransition.htm" />
+          <HelpTOCNode Title="IsValid Property " Url="html/P_RAGENativeUI_TimeCycleModifier_IsValid.htm" />
+          <HelpTOCNode Title="MemoryAddress Property " Url="html/P_RAGENativeUI_TimeCycleModifier_MemoryAddress.htm" />
+          <HelpTOCNode Title="Mods Property " Url="html/P_RAGENativeUI_TimeCycleModifier_Mods.htm" />
+          <HelpTOCNode Title="Name Property " Url="html/P_RAGENativeUI_TimeCycleModifier_Name.htm" />
+          <HelpTOCNode Title="NumberOfTimeCycleModifiers Property " Url="html/P_RAGENativeUI_TimeCycleModifier_NumberOfTimeCycleModifiers.htm" />
+          <HelpTOCNode Title="Strength Property " Url="html/P_RAGENativeUI_TimeCycleModifier_Strength.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="7aaa2537-a7f6-4bd1-adce-2c69891b3aca" Title="TimeCycleModifier Methods" Url="html/Methods_T_RAGENativeUI_TimeCycleModifier.htm">
+          <HelpTOCNode Title="GetAll Method " Url="html/M_RAGENativeUI_TimeCycleModifier_GetAll.htm" />
+          <HelpTOCNode Title="GetByHash Method " Url="html/M_RAGENativeUI_TimeCycleModifier_GetByHash.htm" />
+          <HelpTOCNode Title="GetByIndex Method " Url="html/M_RAGENativeUI_TimeCycleModifier_GetByIndex.htm" />
+          <HelpTOCNode Title="GetByName Method " Url="html/M_RAGENativeUI_TimeCycleModifier_GetByName.htm" />
+          <HelpTOCNode Id="f1186917-39c8-4f51-a375-4e4d4decac0b" Title="SetActiveWithTransition Method " Url="html/Overload_RAGENativeUI_TimeCycleModifier_SetActiveWithTransition.htm">
+            <HelpTOCNode Title="SetActiveWithTransition Method (Single)" Url="html/M_RAGENativeUI_TimeCycleModifier_SetActiveWithTransition.htm" />
+            <HelpTOCNode Title="SetActiveWithTransition Method (Single, Single)" Url="html/M_RAGENativeUI_TimeCycleModifier_SetActiveWithTransition_1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="6e5c6a0b-0b14-46ca-b3d2-585aff693ae7" Title="TimeCycleModifierMods Class" Url="html/T_RAGENativeUI_TimeCycleModifierMods.htm">
+        <HelpTOCNode Id="f3112d74-1ca6-41be-938f-976f0090a7a7" Title="TimeCycleModifierMods Properties" Url="html/Properties_T_RAGENativeUI_TimeCycleModifierMods.htm">
+          <HelpTOCNode Title="Count Property " Url="html/P_RAGENativeUI_TimeCycleModifierMods_Count.htm" />
+          <HelpTOCNode Title="IsReadOnly Property " Url="html/P_RAGENativeUI_TimeCycleModifierMods_IsReadOnly.htm" />
+          <HelpTOCNode Id="cada7624-fe52-479b-bcaa-03f222021f9f" Title="Item Property " Url="html/Overload_RAGENativeUI_TimeCycleModifierMods_Item.htm">
+            <HelpTOCNode Title="Item Property (Int32)" Url="html/P_RAGENativeUI_TimeCycleModifierMods_Item_1.htm" />
+            <HelpTOCNode Title="Item Property (TimeCycleModifierModType)" Url="html/P_RAGENativeUI_TimeCycleModifierMods_Item.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="Keys Property " Url="html/P_RAGENativeUI_TimeCycleModifierMods_Keys.htm" />
+          <HelpTOCNode Title="Values Property " Url="html/P_RAGENativeUI_TimeCycleModifierMods_Values.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="56679ff4-ee7b-48f6-b21a-f73784f4dded" Title="TimeCycleModifierMods Methods" Url="html/Methods_T_RAGENativeUI_TimeCycleModifierMods.htm">
+          <HelpTOCNode Id="fb0dd24d-46b9-405d-b914-ebd2afd33b2a" Title="Add Method " Url="html/Overload_RAGENativeUI_TimeCycleModifierMods_Add.htm">
+            <HelpTOCNode Title="Add Method (TimeCycleModifierModType, ValueTuple(Single, Single))" Url="html/M_RAGENativeUI_TimeCycleModifierMods_Add_1.htm" />
+            <HelpTOCNode Title="Add Method (TimeCycleModifierModType, Single, Single)" Url="html/M_RAGENativeUI_TimeCycleModifierMods_Add.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="Clear Method " Url="html/M_RAGENativeUI_TimeCycleModifierMods_Clear.htm" />
+          <HelpTOCNode Title="ContainsKey Method " Url="html/M_RAGENativeUI_TimeCycleModifierMods_ContainsKey.htm" />
+          <HelpTOCNode Title="CopyTo Method " Url="html/M_RAGENativeUI_TimeCycleModifierMods_CopyTo.htm" />
+          <HelpTOCNode Title="GetEnumerator Method " Url="html/M_RAGENativeUI_TimeCycleModifierMods_GetEnumerator.htm" />
+          <HelpTOCNode Title="Remove Method " Url="html/M_RAGENativeUI_TimeCycleModifierMods_Remove.htm" />
+          <HelpTOCNode Title="TryGetValue Method " Url="html/M_RAGENativeUI_TimeCycleModifierMods_TryGetValue.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="TimeCycleModifierModType Enumeration" Url="html/T_RAGENativeUI_TimeCycleModifierModType.htm" />
+      <HelpTOCNode Title="TypedEventHandler(TSender, TArgs) Delegate" Url="html/T_RAGENativeUI_TypedEventHandler_2.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="a456beae-90f7-4f48-b873-ecf550f6df66" Title="RAGENativeUI.Drawing" Url="html/N_RAGENativeUI_Drawing.htm">
+      <HelpTOCNode Id="326d5e86-c8ca-44d0-8657-6af3ae5d59a3" Title="Rect Class" Url="html/T_RAGENativeUI_Drawing_Rect.htm">
+        <HelpTOCNode Title="Rect Constructor " Url="html/M_RAGENativeUI_Drawing_Rect__ctor.htm" />
+        <HelpTOCNode Id="de957711-a2a5-4c6a-a7a8-4ef07881c4b5" Title="Rect Properties" Url="html/Properties_T_RAGENativeUI_Drawing_Rect.htm">
+          <HelpTOCNode Title="Color Property " Url="html/P_RAGENativeUI_Drawing_Rect_Color.htm" />
+          <HelpTOCNode Title="IsVisible Property " Url="html/P_RAGENativeUI_Drawing_Rect_IsVisible.htm" />
+          <HelpTOCNode Title="Position Property " Url="html/P_RAGENativeUI_Drawing_Rect_Position.htm" />
+          <HelpTOCNode Title="Size Property " Url="html/P_RAGENativeUI_Drawing_Rect_Size.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="4c391ae6-1a2f-45c2-bdc8-a34db861a00c" Title="Rect Methods" Url="html/Methods_T_RAGENativeUI_Drawing_Rect.htm">
+          <HelpTOCNode Id="0431a34e-fa69-43bf-8243-64d7929e7d8e" Title="Draw Method " Url="html/Overload_RAGENativeUI_Drawing_Rect_Draw.htm">
+            <HelpTOCNode Title="Draw Method " Url="html/M_RAGENativeUI_Drawing_Rect_Draw.htm" />
+            <HelpTOCNode Title="Draw Method (Vector2, Vector2, Color)" Url="html/M_RAGENativeUI_Drawing_Rect_Draw_1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="8d8c724f-014f-4992-9343-b1230e2716bc" Title="Rect3D Class" Url="html/T_RAGENativeUI_Drawing_Rect3D.htm">
+        <HelpTOCNode Id="5a3a2ec2-5687-4cc0-90aa-7667904e1e46" Title="Rect3D Constructor " Url="html/Overload_RAGENativeUI_Drawing_Rect3D__ctor.htm">
+          <HelpTOCNode Title="Rect3D Constructor " Url="html/M_RAGENativeUI_Drawing_Rect3D__ctor.htm" />
+          <HelpTOCNode Title="Rect3D Constructor (Vector3, Vector3, Vector3, Vector3)" Url="html/M_RAGENativeUI_Drawing_Rect3D__ctor_1.htm" />
+          <HelpTOCNode Title="Rect3D Constructor (Vector3, Vector3, Vector3, Vector3, Color)" Url="html/M_RAGENativeUI_Drawing_Rect3D__ctor_2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="57670d56-a055-41bc-8df3-a1d88e2130f2" Title="Rect3D Properties" Url="html/Properties_T_RAGENativeUI_Drawing_Rect3D.htm">
+          <HelpTOCNode Title="BackFace Property " Url="html/P_RAGENativeUI_Drawing_Rect3D_BackFace.htm" />
+          <HelpTOCNode Title="BottomLeft Property " Url="html/P_RAGENativeUI_Drawing_Rect3D_BottomLeft.htm" />
+          <HelpTOCNode Title="BottomRight Property " Url="html/P_RAGENativeUI_Drawing_Rect3D_BottomRight.htm" />
+          <HelpTOCNode Title="Color Property " Url="html/P_RAGENativeUI_Drawing_Rect3D_Color.htm" />
+          <HelpTOCNode Title="IsVisible Property " Url="html/P_RAGENativeUI_Drawing_Rect3D_IsVisible.htm" />
+          <HelpTOCNode Title="UpperLeft Property " Url="html/P_RAGENativeUI_Drawing_Rect3D_UpperLeft.htm" />
+          <HelpTOCNode Title="UpperRight Property " Url="html/P_RAGENativeUI_Drawing_Rect3D_UpperRight.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="e8e2e75d-94d7-48b0-9778-558a46c94470" Title="Rect3D Methods" Url="html/Methods_T_RAGENativeUI_Drawing_Rect3D.htm">
+          <HelpTOCNode Id="068b7ff8-8fe3-4452-8a27-223b296238d2" Title="Draw Method " Url="html/Overload_RAGENativeUI_Drawing_Rect3D_Draw.htm">
+            <HelpTOCNode Title="Draw Method " Url="html/M_RAGENativeUI_Drawing_Rect3D_Draw.htm" />
+            <HelpTOCNode Title="Draw Method (Vector3, Vector3, Vector3, Vector3, Color, Boolean)" Url="html/M_RAGENativeUI_Drawing_Rect3D_Draw_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="e7df48c9-8ab7-4edc-bca3-e54a2ab107b3" Title="SetTransform Method " Url="html/Overload_RAGENativeUI_Drawing_Rect3D_SetTransform.htm">
+            <HelpTOCNode Title="SetTransform Method (Matrix)" Url="html/M_RAGENativeUI_Drawing_Rect3D_SetTransform.htm" />
+            <HelpTOCNode Title="SetTransform Method (Vector3, Vector2, Quaternion)" Url="html/M_RAGENativeUI_Drawing_Rect3D_SetTransform_1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="aedf1b9b-46c5-40f5-ba2b-7eeb072f6e3c" Title="Sprite Class" Url="html/T_RAGENativeUI_Drawing_Sprite.htm">
+        <HelpTOCNode Id="66d45069-8a41-4a2d-8115-0074cf246a15" Title="Sprite Constructor " Url="html/Overload_RAGENativeUI_Drawing_Sprite__ctor.htm">
+          <HelpTOCNode Title="Sprite Constructor (TextureDictionary, String, Vector2, Vector2)" Url="html/M_RAGENativeUI_Drawing_Sprite__ctor.htm" />
+          <HelpTOCNode Title="Sprite Constructor (TextureDictionary, String, Vector2, Vector2, Color)" Url="html/M_RAGENativeUI_Drawing_Sprite__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="47cb56ae-f3eb-4145-9fc5-e0cacb1cd485" Title="Sprite Properties" Url="html/Properties_T_RAGENativeUI_Drawing_Sprite.htm">
+          <HelpTOCNode Title="Color Property " Url="html/P_RAGENativeUI_Drawing_Sprite_Color.htm" />
+          <HelpTOCNode Title="IsVisible Property " Url="html/P_RAGENativeUI_Drawing_Sprite_IsVisible.htm" />
+          <HelpTOCNode Title="Position Property " Url="html/P_RAGENativeUI_Drawing_Sprite_Position.htm" />
+          <HelpTOCNode Title="Rotation Property " Url="html/P_RAGENativeUI_Drawing_Sprite_Rotation.htm" />
+          <HelpTOCNode Title="Size Property " Url="html/P_RAGENativeUI_Drawing_Sprite_Size.htm" />
+          <HelpTOCNode Title="TextureDictionary Property " Url="html/P_RAGENativeUI_Drawing_Sprite_TextureDictionary.htm" />
+          <HelpTOCNode Title="TextureName Property " Url="html/P_RAGENativeUI_Drawing_Sprite_TextureName.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="118c643f-a887-474a-a9fe-62be339c6d05" Title="Sprite Methods" Url="html/Methods_T_RAGENativeUI_Drawing_Sprite.htm">
+          <HelpTOCNode Id="778abe63-5f92-456b-8190-91fc58d1ed21" Title="Draw Method " Url="html/Overload_RAGENativeUI_Drawing_Sprite_Draw.htm">
+            <HelpTOCNode Title="Draw Method " Url="html/M_RAGENativeUI_Drawing_Sprite_Draw.htm" />
+            <HelpTOCNode Title="Draw Method (TextureDictionary, String, Vector2, Vector2, Single, Color)" Url="html/M_RAGENativeUI_Drawing_Sprite_Draw_1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="863ef7f3-dd62-468c-8f81-d8e077a81178" Title="Sprite3D Class" Url="html/T_RAGENativeUI_Drawing_Sprite3D.htm">
+        <HelpTOCNode Id="86aeab7b-f989-4d63-84e4-ba9cb4a9dcd4" Title="Sprite3D Constructor " Url="html/Overload_RAGENativeUI_Drawing_Sprite3D__ctor.htm">
+          <HelpTOCNode Title="Sprite3D Constructor (TextureDictionary, String)" Url="html/M_RAGENativeUI_Drawing_Sprite3D__ctor.htm" />
+          <HelpTOCNode Title="Sprite3D Constructor (TextureDictionary, String, Vector3, Vector3, Vector3, Vector3)" Url="html/M_RAGENativeUI_Drawing_Sprite3D__ctor_1.htm" />
+          <HelpTOCNode Title="Sprite3D Constructor (TextureDictionary, String, Vector3, Vector3, Vector3, Vector3, Color)" Url="html/M_RAGENativeUI_Drawing_Sprite3D__ctor_2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="84399657-ec98-4911-bb1c-54c4256470ad" Title="Sprite3D Properties" Url="html/Properties_T_RAGENativeUI_Drawing_Sprite3D.htm">
+          <HelpTOCNode Title="BackFace Property " Url="html/P_RAGENativeUI_Drawing_Sprite3D_BackFace.htm" />
+          <HelpTOCNode Title="BottomLeft Property " Url="html/P_RAGENativeUI_Drawing_Sprite3D_BottomLeft.htm" />
+          <HelpTOCNode Title="BottomRight Property " Url="html/P_RAGENativeUI_Drawing_Sprite3D_BottomRight.htm" />
+          <HelpTOCNode Title="Color Property " Url="html/P_RAGENativeUI_Drawing_Sprite3D_Color.htm" />
+          <HelpTOCNode Title="IsVisible Property " Url="html/P_RAGENativeUI_Drawing_Sprite3D_IsVisible.htm" />
+          <HelpTOCNode Title="TextureDictionary Property " Url="html/P_RAGENativeUI_Drawing_Sprite3D_TextureDictionary.htm" />
+          <HelpTOCNode Title="TextureName Property " Url="html/P_RAGENativeUI_Drawing_Sprite3D_TextureName.htm" />
+          <HelpTOCNode Title="UpperLeft Property " Url="html/P_RAGENativeUI_Drawing_Sprite3D_UpperLeft.htm" />
+          <HelpTOCNode Title="UpperRight Property " Url="html/P_RAGENativeUI_Drawing_Sprite3D_UpperRight.htm" />
+          <HelpTOCNode Title="UV Property " Url="html/P_RAGENativeUI_Drawing_Sprite3D_UV.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="1f91ffb5-1a99-434f-b5f1-267fc1e86627" Title="Sprite3D Methods" Url="html/Methods_T_RAGENativeUI_Drawing_Sprite3D.htm">
+          <HelpTOCNode Id="923b24c6-dd54-4324-a9c3-73428a42ea6d" Title="Draw Method " Url="html/Overload_RAGENativeUI_Drawing_Sprite3D_Draw.htm">
+            <HelpTOCNode Title="Draw Method " Url="html/M_RAGENativeUI_Drawing_Sprite3D_Draw.htm" />
+            <HelpTOCNode Title="Draw Method (TextureDictionary, String, Vector3, Vector3, Vector3, Vector3, Color, RectangleF, Boolean)" Url="html/M_RAGENativeUI_Drawing_Sprite3D_Draw_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="2de4e54f-0fdb-4d3b-a390-e633bc055c28" Title="SetTransform Method " Url="html/Overload_RAGENativeUI_Drawing_Sprite3D_SetTransform.htm">
+            <HelpTOCNode Title="SetTransform Method (Matrix)" Url="html/M_RAGENativeUI_Drawing_Sprite3D_SetTransform.htm" />
+            <HelpTOCNode Title="SetTransform Method (Vector3, Vector2, Quaternion)" Url="html/M_RAGENativeUI_Drawing_Sprite3D_SetTransform_1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="fad9b3a7-659e-4493-9bc1-a647de024c89" Title="Text Class" Url="html/T_RAGENativeUI_Drawing_Text.htm">
+        <HelpTOCNode Id="56bb6c3c-69d0-46e8-87e3-ff2d861c471a" Title="Text Constructor " Url="html/Overload_RAGENativeUI_Drawing_Text__ctor.htm">
+          <HelpTOCNode Title="Text Constructor (Vector2, Single)" Url="html/M_RAGENativeUI_Drawing_Text__ctor.htm" />
+          <HelpTOCNode Title="Text Constructor (String, Vector2, Single)" Url="html/M_RAGENativeUI_Drawing_Text__ctor_1.htm" />
+          <HelpTOCNode Title="Text Constructor (String, Vector2, Single, Color)" Url="html/M_RAGENativeUI_Drawing_Text__ctor_2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="10babbdb-4c82-4bf4-8223-2593a9668c71" Title="Text Properties" Url="html/Properties_T_RAGENativeUI_Drawing_Text.htm">
+          <HelpTOCNode Title="Alignment Property " Url="html/P_RAGENativeUI_Drawing_Text_Alignment.htm" />
+          <HelpTOCNode Title="Color Property " Url="html/P_RAGENativeUI_Drawing_Text_Color.htm" />
+          <HelpTOCNode Title="Components Property " Url="html/P_RAGENativeUI_Drawing_Text_Components.htm" />
+          <HelpTOCNode Title="DropShadow Property " Url="html/P_RAGENativeUI_Drawing_Text_DropShadow.htm" />
+          <HelpTOCNode Title="Font Property " Url="html/P_RAGENativeUI_Drawing_Text_Font.htm" />
+          <HelpTOCNode Title="IsVisible Property " Url="html/P_RAGENativeUI_Drawing_Text_IsVisible.htm" />
+          <HelpTOCNode Title="Label Property " Url="html/P_RAGENativeUI_Drawing_Text_Label.htm" />
+          <HelpTOCNode Title="Outline Property " Url="html/P_RAGENativeUI_Drawing_Text_Outline.htm" />
+          <HelpTOCNode Title="Position Property " Url="html/P_RAGENativeUI_Drawing_Text_Position.htm" />
+          <HelpTOCNode Title="Scale Property " Url="html/P_RAGENativeUI_Drawing_Text_Scale.htm" />
+          <HelpTOCNode Title="WrapWidth Property " Url="html/P_RAGENativeUI_Drawing_Text_WrapWidth.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="6ea0df2f-b494-4713-abd4-133e692dad2a" Title="Text Methods" Url="html/Methods_T_RAGENativeUI_Drawing_Text.htm">
+          <HelpTOCNode Id="be45c000-0051-4315-b413-bb10e4c84028" Title="Draw Method " Url="html/Overload_RAGENativeUI_Drawing_Text_Draw.htm">
+            <HelpTOCNode Title="Draw Method " Url="html/M_RAGENativeUI_Drawing_Text_Draw.htm" />
+            <HelpTOCNode Title="Draw Method (String, Vector2, Single, Color, TextFont, TextAlignment, Single, Boolean, Boolean)" Url="html/M_RAGENativeUI_Drawing_Text_Draw_1.htm" />
+            <HelpTOCNode Title="Draw Method (String, List(TextComponent), Vector2, Single, Color, TextFont, TextAlignment, Single, Boolean, Boolean)" Url="html/M_RAGENativeUI_Drawing_Text_Draw_2.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="SetText Method " Url="html/M_RAGENativeUI_Drawing_Text_SetText.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="TextAlignment Enumeration" Url="html/T_RAGENativeUI_Drawing_TextAlignment.htm" />
+      <HelpTOCNode Id="b49d2a17-da4f-4a23-b9cc-e78de72c2f84" Title="TextComponent Class" Url="html/T_RAGENativeUI_Drawing_TextComponent.htm">
+        <HelpTOCNode Title="TextComponent Constructor " Url="html/M_RAGENativeUI_Drawing_TextComponent__ctor.htm" />
+        <HelpTOCNode Id="cbfcabf3-43a7-4c63-b410-4f71a68f731c" Title="TextComponent Methods" Url="html/Methods_T_RAGENativeUI_Drawing_TextComponent.htm">
+          <HelpTOCNode Title="Push Method " Url="html/M_RAGENativeUI_Drawing_TextComponent_Push.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="4dbf97d7-98f7-4662-9c5a-4eed881486b3" Title="TextComponentBlipName Class" Url="html/T_RAGENativeUI_Drawing_TextComponentBlipName.htm">
+        <HelpTOCNode Title="TextComponentBlipName Constructor " Url="html/M_RAGENativeUI_Drawing_TextComponentBlipName__ctor.htm" />
+        <HelpTOCNode Id="e00e5283-70bd-4d0b-bbfa-2cf4768c221b" Title="TextComponentBlipName Properties" Url="html/Properties_T_RAGENativeUI_Drawing_TextComponentBlipName.htm">
+          <HelpTOCNode Title="Blip Property " Url="html/P_RAGENativeUI_Drawing_TextComponentBlipName_Blip.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="9b19fedd-9c1e-4815-bf95-e705b1d2a29f" Title="TextComponentBlipName Methods" Url="html/Methods_T_RAGENativeUI_Drawing_TextComponentBlipName.htm">
+          <HelpTOCNode Title="Push Method " Url="html/M_RAGENativeUI_Drawing_TextComponentBlipName_Push.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="62f09e95-8704-4b81-9c3c-e168fd644749" Title="TextComponentFloat Class" Url="html/T_RAGENativeUI_Drawing_TextComponentFloat.htm">
+        <HelpTOCNode Title="TextComponentFloat Constructor " Url="html/M_RAGENativeUI_Drawing_TextComponentFloat__ctor.htm" />
+        <HelpTOCNode Id="70fe4ae4-c372-4f20-88d4-46ef850d69c3" Title="TextComponentFloat Properties" Url="html/Properties_T_RAGENativeUI_Drawing_TextComponentFloat.htm">
+          <HelpTOCNode Title="DecimalPlaces Property " Url="html/P_RAGENativeUI_Drawing_TextComponentFloat_DecimalPlaces.htm" />
+          <HelpTOCNode Title="Value Property " Url="html/P_RAGENativeUI_Drawing_TextComponentFloat_Value.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="a7d27af3-c65d-4c0b-be02-7bd6df2a3d3c" Title="TextComponentFloat Methods" Url="html/Methods_T_RAGENativeUI_Drawing_TextComponentFloat.htm">
+          <HelpTOCNode Title="Push Method " Url="html/M_RAGENativeUI_Drawing_TextComponentFloat_Push.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="2ac63b64-d126-49ec-93a4-9e82e5593a47" Title="TextComponentFormattedInteger Class" Url="html/T_RAGENativeUI_Drawing_TextComponentFormattedInteger.htm">
+        <HelpTOCNode Title="TextComponentFormattedInteger Constructor " Url="html/M_RAGENativeUI_Drawing_TextComponentFormattedInteger__ctor.htm" />
+        <HelpTOCNode Id="4a02046f-d78c-4779-97fb-a26091d14125" Title="TextComponentFormattedInteger Properties" Url="html/Properties_T_RAGENativeUI_Drawing_TextComponentFormattedInteger.htm">
+          <HelpTOCNode Title="CommaSeparated Property " Url="html/P_RAGENativeUI_Drawing_TextComponentFormattedInteger_CommaSeparated.htm" />
+          <HelpTOCNode Title="Value Property " Url="html/P_RAGENativeUI_Drawing_TextComponentFormattedInteger_Value.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="4d4d9861-3404-4949-98eb-60af91be02aa" Title="TextComponentFormattedInteger Methods" Url="html/Methods_T_RAGENativeUI_Drawing_TextComponentFormattedInteger.htm">
+          <HelpTOCNode Title="Push Method " Url="html/M_RAGENativeUI_Drawing_TextComponentFormattedInteger_Push.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="a647c3f6-12dd-4e1a-9841-d2be098dc030" Title="TextComponentInteger Class" Url="html/T_RAGENativeUI_Drawing_TextComponentInteger.htm">
+        <HelpTOCNode Title="TextComponentInteger Constructor " Url="html/M_RAGENativeUI_Drawing_TextComponentInteger__ctor.htm" />
+        <HelpTOCNode Id="fb3d0690-e8ac-4699-a534-e11ddccdd011" Title="TextComponentInteger Properties" Url="html/Properties_T_RAGENativeUI_Drawing_TextComponentInteger.htm">
+          <HelpTOCNode Title="Value Property " Url="html/P_RAGENativeUI_Drawing_TextComponentInteger_Value.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="9353a61f-7218-4bf4-92bc-b1c8dcab31cc" Title="TextComponentInteger Methods" Url="html/Methods_T_RAGENativeUI_Drawing_TextComponentInteger.htm">
+          <HelpTOCNode Title="Push Method " Url="html/M_RAGENativeUI_Drawing_TextComponentInteger_Push.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="c2802eb5-e2b6-4ca3-a6f8-0ce7e9801610" Title="TextComponentLabel Class" Url="html/T_RAGENativeUI_Drawing_TextComponentLabel.htm">
+        <HelpTOCNode Title="TextComponentLabel Constructor " Url="html/M_RAGENativeUI_Drawing_TextComponentLabel__ctor.htm" />
+        <HelpTOCNode Id="4c86b711-3f12-45b4-9dd7-05a1b1fff17a" Title="TextComponentLabel Properties" Url="html/Properties_T_RAGENativeUI_Drawing_TextComponentLabel.htm">
+          <HelpTOCNode Title="LabelName Property " Url="html/P_RAGENativeUI_Drawing_TextComponentLabel_LabelName.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="02822b23-094d-4b17-a962-ee6836e76e65" Title="TextComponentLabel Methods" Url="html/Methods_T_RAGENativeUI_Drawing_TextComponentLabel.htm">
+          <HelpTOCNode Title="Push Method " Url="html/M_RAGENativeUI_Drawing_TextComponentLabel_Push.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="18893c36-f2e1-4b6e-90ba-92642260ef82" Title="TextComponentLabelHash Class" Url="html/T_RAGENativeUI_Drawing_TextComponentLabelHash.htm">
+        <HelpTOCNode Title="TextComponentLabelHash Constructor " Url="html/M_RAGENativeUI_Drawing_TextComponentLabelHash__ctor.htm" />
+        <HelpTOCNode Id="a43f6a8b-0a5f-4203-8295-75f3c3649f7f" Title="TextComponentLabelHash Properties" Url="html/Properties_T_RAGENativeUI_Drawing_TextComponentLabelHash.htm">
+          <HelpTOCNode Title="LabelHash Property " Url="html/P_RAGENativeUI_Drawing_TextComponentLabelHash_LabelHash.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="8888dc75-368c-4048-baa3-528d7f9044c4" Title="TextComponentLabelHash Methods" Url="html/Methods_T_RAGENativeUI_Drawing_TextComponentLabelHash.htm">
+          <HelpTOCNode Title="Push Method " Url="html/M_RAGENativeUI_Drawing_TextComponentLabelHash_Push.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="9c00fe51-f5b8-40ba-b2cb-3c1b7e5b72c6" Title="TextComponentsExtensions Class" Url="html/T_RAGENativeUI_Drawing_TextComponentsExtensions.htm">
+        <HelpTOCNode Id="3372bc19-8a6e-4588-a270-4d74e1443438" Title="TextComponentsExtensions Methods" Url="html/Methods_T_RAGENativeUI_Drawing_TextComponentsExtensions.htm">
+          <HelpTOCNode Title="AddComponentBlipName Method " Url="html/M_RAGENativeUI_Drawing_TextComponentsExtensions_AddComponentBlipName.htm" />
+          <HelpTOCNode Title="AddComponentFloat Method " Url="html/M_RAGENativeUI_Drawing_TextComponentsExtensions_AddComponentFloat.htm" />
+          <HelpTOCNode Title="AddComponentFormattedInteger Method " Url="html/M_RAGENativeUI_Drawing_TextComponentsExtensions_AddComponentFormattedInteger.htm" />
+          <HelpTOCNode Title="AddComponentInteger Method " Url="html/M_RAGENativeUI_Drawing_TextComponentsExtensions_AddComponentInteger.htm" />
+          <HelpTOCNode Id="1187c525-8805-4201-ba11-05e0e007b2af" Title="AddComponentLabel Method " Url="html/Overload_RAGENativeUI_Drawing_TextComponentsExtensions_AddComponentLabel.htm">
+            <HelpTOCNode Title="AddComponentLabel Method (Text, String)" Url="html/M_RAGENativeUI_Drawing_TextComponentsExtensions_AddComponentLabel.htm" />
+            <HelpTOCNode Title="AddComponentLabel Method (Text, UInt32)" Url="html/M_RAGENativeUI_Drawing_TextComponentsExtensions_AddComponentLabel_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="AddComponentString Method " Url="html/M_RAGENativeUI_Drawing_TextComponentsExtensions_AddComponentString.htm" />
+          <HelpTOCNode Title="AddComponentTime Method " Url="html/M_RAGENativeUI_Drawing_TextComponentsExtensions_AddComponentTime.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="1fc24cfa-2337-43b0-923f-fae47be43acf" Title="TextComponentString Class" Url="html/T_RAGENativeUI_Drawing_TextComponentString.htm">
+        <HelpTOCNode Title="TextComponentString Constructor " Url="html/M_RAGENativeUI_Drawing_TextComponentString__ctor.htm" />
+        <HelpTOCNode Id="9ce70bb0-96ac-4fc0-94ad-234786e35ca1" Title="TextComponentString Properties" Url="html/Properties_T_RAGENativeUI_Drawing_TextComponentString.htm">
+          <HelpTOCNode Title="Value Property " Url="html/P_RAGENativeUI_Drawing_TextComponentString_Value.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="8bf52607-303f-45e7-beff-c04b8ec1837a" Title="TextComponentString Methods" Url="html/Methods_T_RAGENativeUI_Drawing_TextComponentString.htm">
+          <HelpTOCNode Title="Push Method " Url="html/M_RAGENativeUI_Drawing_TextComponentString_Push.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="e0422b0d-8a8b-41e6-9f93-5cf1ddfa2c14" Title="TextComponentTime Class" Url="html/T_RAGENativeUI_Drawing_TextComponentTime.htm">
+        <HelpTOCNode Title="TextComponentTime Constructor " Url="html/M_RAGENativeUI_Drawing_TextComponentTime__ctor.htm" />
+        <HelpTOCNode Id="818b2c58-7e07-4aec-8da6-eba3d790ef24" Title="TextComponentTime Properties" Url="html/Properties_T_RAGENativeUI_Drawing_TextComponentTime.htm">
+          <HelpTOCNode Title="Options Property " Url="html/P_RAGENativeUI_Drawing_TextComponentTime_Options.htm" />
+          <HelpTOCNode Title="Time Property " Url="html/P_RAGENativeUI_Drawing_TextComponentTime_Time.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="fe0ac5f4-e32f-47f9-809b-2d5d17faffdf" Title="TextComponentTime Methods" Url="html/Methods_T_RAGENativeUI_Drawing_TextComponentTime.htm">
+          <HelpTOCNode Title="Push Method " Url="html/M_RAGENativeUI_Drawing_TextComponentTime_Push.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="TextComponentTimeOptions Enumeration" Url="html/T_RAGENativeUI_Drawing_TextComponentTimeOptions.htm" />
+      <HelpTOCNode Title="TextFont Enumeration" Url="html/T_RAGENativeUI_Drawing_TextFont.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="24ea005d-e6c5-4392-976b-afd6d32ae3ee" Title="RAGENativeUI.Menus" Url="html/N_RAGENativeUI_Menus.htm">
+      <HelpTOCNode Id="5265289c-5ca9-4d13-8119-f6d2e5a945c6" Title="ActivatedEventArgs Class" Url="html/T_RAGENativeUI_Menus_ActivatedEventArgs.htm">
+        <HelpTOCNode Title="ActivatedEventArgs Constructor " Url="html/M_RAGENativeUI_Menus_ActivatedEventArgs__ctor.htm" />
+        <HelpTOCNode Title="ActivatedEventArgs Methods" Url="html/Methods_T_RAGENativeUI_Menus_ActivatedEventArgs.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="e8eb9c23-c59c-4251-a7fa-15648b7c8e3c" Title="CheckedChangedEventArgs Class" Url="html/T_RAGENativeUI_Menus_CheckedChangedEventArgs.htm">
+        <HelpTOCNode Title="CheckedChangedEventArgs Constructor " Url="html/M_RAGENativeUI_Menus_CheckedChangedEventArgs__ctor.htm" />
+        <HelpTOCNode Id="b55f2717-8fbc-4a20-a61c-b0a0f42f5e05" Title="CheckedChangedEventArgs Properties" Url="html/Properties_T_RAGENativeUI_Menus_CheckedChangedEventArgs.htm">
+          <HelpTOCNode Title="IsChecked Property " Url="html/P_RAGENativeUI_Menus_CheckedChangedEventArgs_IsChecked.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="CheckedChangedEventArgs Methods" Url="html/Methods_T_RAGENativeUI_Menus_CheckedChangedEventArgs.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="40fdbae4-bba6-4d5f-a717-849071d55a17" Title="Menu Class" Url="html/T_RAGENativeUI_Menus_Menu.htm">
+        <HelpTOCNode Title="Menu Constructor " Url="html/M_RAGENativeUI_Menus_Menu__ctor.htm" />
+        <HelpTOCNode Id="8ab5e2f8-9477-4d24-8cf1-be9c4592eb97" Title="Menu Properties" Url="html/Properties_T_RAGENativeUI_Menus_Menu.htm">
+          <HelpTOCNode Title="AllowedControls Property " Url="html/P_RAGENativeUI_Menus_Menu_AllowedControls.htm" />
+          <HelpTOCNode Title="Controls Property " Url="html/P_RAGENativeUI_Menus_Menu_Controls.htm" />
+          <HelpTOCNode Title="CurrentDescription Property " Url="html/P_RAGENativeUI_Menus_Menu_CurrentDescription.htm" />
+          <HelpTOCNode Title="DescriptionOverride Property " Url="html/P_RAGENativeUI_Menus_Menu_DescriptionOverride.htm" />
+          <HelpTOCNode Title="DisableControlsActions Property " Url="html/P_RAGENativeUI_Menus_Menu_DisableControlsActions.htm" />
+          <HelpTOCNode Title="IsAnyChildMenuVisible Property " Url="html/P_RAGENativeUI_Menus_Menu_IsAnyChildMenuVisible.htm" />
+          <HelpTOCNode Title="IsAnyItemOnScreen Property " Url="html/P_RAGENativeUI_Menus_Menu_IsAnyItemOnScreen.htm" />
+          <HelpTOCNode Title="IsAnyMenuVisible Property " Url="html/P_RAGENativeUI_Menus_Menu_IsAnyMenuVisible.htm" />
+          <HelpTOCNode Title="IsDisposed Property " Url="html/P_RAGENativeUI_Menus_Menu_IsDisposed.htm" />
+          <HelpTOCNode Title="IsVisible Property " Url="html/P_RAGENativeUI_Menus_Menu_IsVisible.htm" />
+          <HelpTOCNode Title="Items Property " Url="html/P_RAGENativeUI_Menus_Menu_Items.htm" />
+          <HelpTOCNode Title="ItemsOnScreenEndIndex Property " Url="html/P_RAGENativeUI_Menus_Menu_ItemsOnScreenEndIndex.htm" />
+          <HelpTOCNode Title="ItemsOnScreenStartIndex Property " Url="html/P_RAGENativeUI_Menus_Menu_ItemsOnScreenStartIndex.htm" />
+          <HelpTOCNode Title="JustOpened Property " Url="html/P_RAGENativeUI_Menus_Menu_JustOpened.htm" />
+          <HelpTOCNode Title="MaxItemsOnScreen Property " Url="html/P_RAGENativeUI_Menus_Menu_MaxItemsOnScreen.htm" />
+          <HelpTOCNode Title="MenusVisible Property " Url="html/P_RAGENativeUI_Menus_Menu_MenusVisible.htm" />
+          <HelpTOCNode Title="Metadata Property " Url="html/P_RAGENativeUI_Menus_Menu_Metadata.htm" />
+          <HelpTOCNode Title="NumberOfItemsOnScreen Property " Url="html/P_RAGENativeUI_Menus_Menu_NumberOfItemsOnScreen.htm" />
+          <HelpTOCNode Title="SelectedIndex Property " Url="html/P_RAGENativeUI_Menus_Menu_SelectedIndex.htm" />
+          <HelpTOCNode Title="SelectedItem Property " Url="html/P_RAGENativeUI_Menus_Menu_SelectedItem.htm" />
+          <HelpTOCNode Title="SoundsSet Property " Url="html/P_RAGENativeUI_Menus_Menu_SoundsSet.htm" />
+          <HelpTOCNode Title="Subtitle Property " Url="html/P_RAGENativeUI_Menus_Menu_Subtitle.htm" />
+          <HelpTOCNode Title="Theme Property " Url="html/P_RAGENativeUI_Menus_Menu_Theme.htm" />
+          <HelpTOCNode Title="Title Property " Url="html/P_RAGENativeUI_Menus_Menu_Title.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="ee5963cb-a728-49ec-b8e1-79a2da3d7062" Title="Menu Methods" Url="html/Methods_T_RAGENativeUI_Menus_Menu.htm">
+          <HelpTOCNode Title="Accept Method " Url="html/M_RAGENativeUI_Menus_Menu_Accept.htm" />
+          <HelpTOCNode Title="Back Method " Url="html/M_RAGENativeUI_Menus_Menu_Back.htm" />
+          <HelpTOCNode Id="f6acb4f9-d18a-4abc-b9a0-c5737501661a" Title="CopyThemeFrom Method " Url="html/Overload_RAGENativeUI_Menus_Menu_CopyThemeFrom.htm">
+            <HelpTOCNode Title="CopyThemeFrom(T) Method (T)" Url="html/M_RAGENativeUI_Menus_Menu_CopyThemeFrom__1.htm" />
+            <HelpTOCNode Title="CopyThemeFrom Method (Menu)" Url="html/M_RAGENativeUI_Menus_Menu_CopyThemeFrom.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="CreateItemsInstance Method " Url="html/M_RAGENativeUI_Menus_Menu_CreateItemsInstance.htm" />
+          <HelpTOCNode Title="DisableControls Method " Url="html/M_RAGENativeUI_Menus_Menu_DisableControls.htm" />
+          <HelpTOCNode Id="992786b5-6be1-45b3-ae58-be52415e1186" Title="Dispose Method " Url="html/Overload_RAGENativeUI_Menus_Menu_Dispose.htm">
+            <HelpTOCNode Title="Dispose Method " Url="html/M_RAGENativeUI_Menus_Menu_Dispose.htm" />
+            <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/M_RAGENativeUI_Menus_Menu_Dispose_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="Finalize Method " Url="html/M_RAGENativeUI_Menus_Menu_Finalize.htm" />
+          <HelpTOCNode Title="ForEachItemOnScreen Method " Url="html/M_RAGENativeUI_Menus_Menu_ForEachItemOnScreen.htm" />
+          <HelpTOCNode Id="572177e5-c199-4076-ace1-708f258eb4ac" Title="Hide Method " Url="html/Overload_RAGENativeUI_Menus_Menu_Hide.htm">
+            <HelpTOCNode Title="Hide Method " Url="html/M_RAGENativeUI_Menus_Menu_Hide.htm" />
+            <HelpTOCNode Title="Hide Method (Boolean)" Url="html/M_RAGENativeUI_Menus_Menu_Hide_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="MoveDown Method " Url="html/M_RAGENativeUI_Menus_Menu_MoveDown.htm" />
+          <HelpTOCNode Title="MoveLeft Method " Url="html/M_RAGENativeUI_Menus_Menu_MoveLeft.htm" />
+          <HelpTOCNode Title="MoveRight Method " Url="html/M_RAGENativeUI_Menus_Menu_MoveRight.htm" />
+          <HelpTOCNode Title="MoveUp Method " Url="html/M_RAGENativeUI_Menus_Menu_MoveUp.htm" />
+          <HelpTOCNode Title="OnProcess Method " Url="html/M_RAGENativeUI_Menus_Menu_OnProcess.htm" />
+          <HelpTOCNode Title="OnPropertyChanged Method " Url="html/M_RAGENativeUI_Menus_Menu_OnPropertyChanged.htm" />
+          <HelpTOCNode Title="OnSelectedItemChanged Method " Url="html/M_RAGENativeUI_Menus_Menu_OnSelectedItemChanged.htm" />
+          <HelpTOCNode Title="OnVisibleChanged Method " Url="html/M_RAGENativeUI_Menus_Menu_OnVisibleChanged.htm" />
+          <HelpTOCNode Title="ProcessInput Method " Url="html/M_RAGENativeUI_Menus_Menu_ProcessInput.htm" />
+          <HelpTOCNode Title="SetTheme(T) Method " Url="html/M_RAGENativeUI_Menus_Menu_SetTheme__1.htm" />
+          <HelpTOCNode Id="1916706b-1cd2-4ee6-a11e-bece804f6d99" Title="Show Method " Url="html/Overload_RAGENativeUI_Menus_Menu_Show.htm">
+            <HelpTOCNode Title="Show Method " Url="html/M_RAGENativeUI_Menus_Menu_Show.htm" />
+            <HelpTOCNode Title="Show Method (Menu)" Url="html/M_RAGENativeUI_Menus_Menu_Show_1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="bdd41f9a-db1a-4f67-9265-11a39640f969" Title="Menu Events" Url="html/Events_T_RAGENativeUI_Menus_Menu.htm">
+          <HelpTOCNode Title="PropertyChanged Event" Url="html/E_RAGENativeUI_Menus_Menu_PropertyChanged.htm" />
+          <HelpTOCNode Title="SelectedItemChanged Event" Url="html/E_RAGENativeUI_Menus_Menu_SelectedItemChanged.htm" />
+          <HelpTOCNode Title="VisibleChanged Event" Url="html/E_RAGENativeUI_Menus_Menu_VisibleChanged.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="21b48b87-55a6-4628-b7dd-94f569ee1f6a" Title="Menu Fields" Url="html/Fields_T_RAGENativeUI_Menus_Menu.htm">
+          <HelpTOCNode Title="DefaultAllowedControls Field" Url="html/F_RAGENativeUI_Menus_Menu_DefaultAllowedControls.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="Menu.ForEachItemOnScreenDelegate Delegate" Url="html/T_RAGENativeUI_Menus_Menu_ForEachItemOnScreenDelegate.htm" />
+      <HelpTOCNode Id="9f070bac-7bc6-4116-bdff-9edca2b63d37" Title="MenuControls Class" Url="html/T_RAGENativeUI_Menus_MenuControls.htm">
+        <HelpTOCNode Title="MenuControls Constructor " Url="html/M_RAGENativeUI_Menus_MenuControls__ctor.htm" />
+        <HelpTOCNode Id="fff78238-87ed-4623-9430-23ef7821ff93" Title="MenuControls Properties" Url="html/Properties_T_RAGENativeUI_Menus_MenuControls.htm">
+          <HelpTOCNode Title="Accept Property " Url="html/P_RAGENativeUI_Menus_MenuControls_Accept.htm" />
+          <HelpTOCNode Title="Back Property " Url="html/P_RAGENativeUI_Menus_MenuControls_Back.htm" />
+          <HelpTOCNode Title="Down Property " Url="html/P_RAGENativeUI_Menus_MenuControls_Down.htm" />
+          <HelpTOCNode Title="Left Property " Url="html/P_RAGENativeUI_Menus_MenuControls_Left.htm" />
+          <HelpTOCNode Title="Right Property " Url="html/P_RAGENativeUI_Menus_MenuControls_Right.htm" />
+          <HelpTOCNode Title="Up Property " Url="html/P_RAGENativeUI_Menus_MenuControls_Up.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="MenuControls Methods" Url="html/Methods_T_RAGENativeUI_Menus_MenuControls.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="5d7724e5-2a39-4926-9075-8f1c4ca31e89" Title="MenuItem Class" Url="html/T_RAGENativeUI_Menus_MenuItem.htm">
+        <HelpTOCNode Id="cdfdc9ae-b87e-4725-be55-8a3175d17c6a" Title="MenuItem Constructor " Url="html/Overload_RAGENativeUI_Menus_MenuItem__ctor.htm">
+          <HelpTOCNode Title="MenuItem Constructor (String)" Url="html/M_RAGENativeUI_Menus_MenuItem__ctor.htm" />
+          <HelpTOCNode Title="MenuItem Constructor (String, String)" Url="html/M_RAGENativeUI_Menus_MenuItem__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="b8029d5e-14da-44a1-92bb-4071072d88dd" Title="MenuItem Properties" Url="html/Properties_T_RAGENativeUI_Menus_MenuItem.htm">
+          <HelpTOCNode Title="BindedMenu Property " Url="html/P_RAGENativeUI_Menus_MenuItem_BindedMenu.htm" />
+          <HelpTOCNode Title="Description Property " Url="html/P_RAGENativeUI_Menus_MenuItem_Description.htm" />
+          <HelpTOCNode Title="IsDisabled Property " Url="html/P_RAGENativeUI_Menus_MenuItem_IsDisabled.htm" />
+          <HelpTOCNode Title="IsSelected Property " Url="html/P_RAGENativeUI_Menus_MenuItem_IsSelected.htm" />
+          <HelpTOCNode Title="IsSkippedIfDisabled Property " Url="html/P_RAGENativeUI_Menus_MenuItem_IsSkippedIfDisabled.htm" />
+          <HelpTOCNode Title="IsVisible Property " Url="html/P_RAGENativeUI_Menus_MenuItem_IsVisible.htm" />
+          <HelpTOCNode Title="Metadata Property " Url="html/P_RAGENativeUI_Menus_MenuItem_Metadata.htm" />
+          <HelpTOCNode Title="Parent Property " Url="html/P_RAGENativeUI_Menus_MenuItem_Parent.htm" />
+          <HelpTOCNode Title="Text Property " Url="html/P_RAGENativeUI_Menus_MenuItem_Text.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="5080ec9d-f01e-4ec4-8bda-7ba3b1f00597" Title="MenuItem Methods" Url="html/Methods_T_RAGENativeUI_Menus_MenuItem.htm">
+          <HelpTOCNode Title="OnAccept Method " Url="html/M_RAGENativeUI_Menus_MenuItem_OnAccept.htm" />
+          <HelpTOCNode Title="OnActivated Method " Url="html/M_RAGENativeUI_Menus_MenuItem_OnActivated.htm" />
+          <HelpTOCNode Title="OnBack Method " Url="html/M_RAGENativeUI_Menus_MenuItem_OnBack.htm" />
+          <HelpTOCNode Title="OnMoveDown Method " Url="html/M_RAGENativeUI_Menus_MenuItem_OnMoveDown.htm" />
+          <HelpTOCNode Title="OnMoveLeft Method " Url="html/M_RAGENativeUI_Menus_MenuItem_OnMoveLeft.htm" />
+          <HelpTOCNode Title="OnMoveRight Method " Url="html/M_RAGENativeUI_Menus_MenuItem_OnMoveRight.htm" />
+          <HelpTOCNode Title="OnMoveUp Method " Url="html/M_RAGENativeUI_Menus_MenuItem_OnMoveUp.htm" />
+          <HelpTOCNode Title="OnProcess Method " Url="html/M_RAGENativeUI_Menus_MenuItem_OnProcess.htm" />
+          <HelpTOCNode Title="OnPropertyChanged Method " Url="html/M_RAGENativeUI_Menus_MenuItem_OnPropertyChanged.htm" />
+          <HelpTOCNode Title="OnSelectedChanged Method " Url="html/M_RAGENativeUI_Menus_MenuItem_OnSelectedChanged.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="67ab3cca-53f4-4850-ba13-55abc1e98eae" Title="MenuItem Events" Url="html/Events_T_RAGENativeUI_Menus_MenuItem.htm">
+          <HelpTOCNode Title="Activated Event" Url="html/E_RAGENativeUI_Menus_MenuItem_Activated.htm" />
+          <HelpTOCNode Title="PropertyChanged Event" Url="html/E_RAGENativeUI_Menus_MenuItem_PropertyChanged.htm" />
+          <HelpTOCNode Title="SelectedChanged Event" Url="html/E_RAGENativeUI_Menus_MenuItem_SelectedChanged.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="4cfe2bac-4b91-4f3c-a0f1-5009c4d84067" Title="MenuItemCheckbox Class" Url="html/T_RAGENativeUI_Menus_MenuItemCheckbox.htm">
+        <HelpTOCNode Id="0106f2d4-8fcc-4912-a5a0-4097bc45ff22" Title="MenuItemCheckbox Constructor " Url="html/Overload_RAGENativeUI_Menus_MenuItemCheckbox__ctor.htm">
+          <HelpTOCNode Title="MenuItemCheckbox Constructor (String)" Url="html/M_RAGENativeUI_Menus_MenuItemCheckbox__ctor.htm" />
+          <HelpTOCNode Title="MenuItemCheckbox Constructor (String, String)" Url="html/M_RAGENativeUI_Menus_MenuItemCheckbox__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="56deeca7-5a1f-4d52-b666-3d8bffaf4e5e" Title="MenuItemCheckbox Properties" Url="html/Properties_T_RAGENativeUI_Menus_MenuItemCheckbox.htm">
+          <HelpTOCNode Title="IsChecked Property " Url="html/P_RAGENativeUI_Menus_MenuItemCheckbox_IsChecked.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="da95e9f3-155f-4537-9957-19cf454726c7" Title="MenuItemCheckbox Methods" Url="html/Methods_T_RAGENativeUI_Menus_MenuItemCheckbox.htm">
+          <HelpTOCNode Title="OnAccept Method " Url="html/M_RAGENativeUI_Menus_MenuItemCheckbox_OnAccept.htm" />
+          <HelpTOCNode Title="OnCheckedChanged Method " Url="html/M_RAGENativeUI_Menus_MenuItemCheckbox_OnCheckedChanged.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="54366877-c2ee-4efc-a3cf-169621959379" Title="MenuItemCheckbox Events" Url="html/Events_T_RAGENativeUI_Menus_MenuItemCheckbox.htm">
+          <HelpTOCNode Title="Checked Event" Url="html/E_RAGENativeUI_Menus_MenuItemCheckbox_Checked.htm" />
+          <HelpTOCNode Title="CheckedChanged Event" Url="html/E_RAGENativeUI_Menus_MenuItemCheckbox_CheckedChanged.htm" />
+          <HelpTOCNode Title="Unchecked Event" Url="html/E_RAGENativeUI_Menus_MenuItemCheckbox_Unchecked.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="6eeced63-9dc4-4d94-ac90-d68199d197ad" Title="MenuItemEnumScroller Class" Url="html/T_RAGENativeUI_Menus_MenuItemEnumScroller.htm">
+        <HelpTOCNode Id="90f5cb61-11fb-4931-8a33-b8e2237288b2" Title="MenuItemEnumScroller Constructor " Url="html/Overload_RAGENativeUI_Menus_MenuItemEnumScroller__ctor.htm">
+          <HelpTOCNode Title="MenuItemEnumScroller Constructor (String, Type)" Url="html/M_RAGENativeUI_Menus_MenuItemEnumScroller__ctor_1.htm" />
+          <HelpTOCNode Title="MenuItemEnumScroller Constructor (String, String, Type)" Url="html/M_RAGENativeUI_Menus_MenuItemEnumScroller__ctor.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="f426fe0c-97b3-49a8-a768-9d3967346755" Title="MenuItemEnumScroller Properties" Url="html/Properties_T_RAGENativeUI_Menus_MenuItemEnumScroller.htm">
+          <HelpTOCNode Title="EnumType Property " Url="html/P_RAGENativeUI_Menus_MenuItemEnumScroller_EnumType.htm" />
+          <HelpTOCNode Title="OptionCount Property " Url="html/P_RAGENativeUI_Menus_MenuItemEnumScroller_OptionCount.htm" />
+          <HelpTOCNode Title="SelectedOptionText Property " Url="html/P_RAGENativeUI_Menus_MenuItemEnumScroller_SelectedOptionText.htm" />
+          <HelpTOCNode Title="SelectedValue Property " Url="html/P_RAGENativeUI_Menus_MenuItemEnumScroller_SelectedValue.htm" />
+          <HelpTOCNode Title="Values Property " Url="html/P_RAGENativeUI_Menus_MenuItemEnumScroller_Values.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="588c8709-e515-475c-bf72-c553be44a701" Title="MenuItemEnumScroller Methods" Url="html/Methods_T_RAGENativeUI_Menus_MenuItemEnumScroller.htm">
+          <HelpTOCNode Title="OnPropertyChanged Method " Url="html/M_RAGENativeUI_Menus_MenuItemEnumScroller_OnPropertyChanged.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="MenuItemEnumScroller Events" Url="html/Events_T_RAGENativeUI_Menus_MenuItemEnumScroller.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="fd249705-435f-4141-9400-07d43768faec" Title="MenuItemEnumScroller(T) Class" Url="html/T_RAGENativeUI_Menus_MenuItemEnumScroller_1.htm">
+        <HelpTOCNode Id="5712a682-54a9-4268-a92f-8f2a9d7692c0" Title="MenuItemEnumScroller(T) Constructor " Url="html/Overload_RAGENativeUI_Menus_MenuItemEnumScroller_1__ctor.htm">
+          <HelpTOCNode Title="MenuItemEnumScroller(T) Constructor (String)" Url="html/M_RAGENativeUI_Menus_MenuItemEnumScroller_1__ctor.htm" />
+          <HelpTOCNode Title="MenuItemEnumScroller(T) Constructor (String, String)" Url="html/M_RAGENativeUI_Menus_MenuItemEnumScroller_1__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="b58e8b7a-4e30-41fb-8ef7-636fa09d7983" Title="MenuItemEnumScroller(T) Properties" Url="html/Properties_T_RAGENativeUI_Menus_MenuItemEnumScroller_1.htm">
+          <HelpTOCNode Title="SelectedEnumValue Property " Url="html/P_RAGENativeUI_Menus_MenuItemEnumScroller_1_SelectedEnumValue.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="3ea48a1e-f4f3-4c8a-9103-43c883bbd915" Title="MenuItemEnumScroller(T) Methods" Url="html/Methods_T_RAGENativeUI_Menus_MenuItemEnumScroller_1.htm">
+          <HelpTOCNode Title="OnPropertyChanged Method " Url="html/M_RAGENativeUI_Menus_MenuItemEnumScroller_1_OnPropertyChanged.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="MenuItemEnumScroller(T) Events" Url="html/Events_T_RAGENativeUI_Menus_MenuItemEnumScroller_1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="774f1d3a-9b59-4555-929f-0f58c4a9e985" Title="MenuItemListScroller Class" Url="html/T_RAGENativeUI_Menus_MenuItemListScroller.htm">
+        <HelpTOCNode Id="1ce6419f-2d12-4269-9d35-41902a0768cb" Title="MenuItemListScroller Constructor " Url="html/Overload_RAGENativeUI_Menus_MenuItemListScroller__ctor.htm">
+          <HelpTOCNode Title="MenuItemListScroller Constructor (String)" Url="html/M_RAGENativeUI_Menus_MenuItemListScroller__ctor.htm" />
+          <HelpTOCNode Title="MenuItemListScroller Constructor (String, IEnumerable(Object))" Url="html/M_RAGENativeUI_Menus_MenuItemListScroller__ctor_1.htm" />
+          <HelpTOCNode Title="MenuItemListScroller Constructor (String, String)" Url="html/M_RAGENativeUI_Menus_MenuItemListScroller__ctor_2.htm" />
+          <HelpTOCNode Title="MenuItemListScroller Constructor (String, String, IEnumerable(Object))" Url="html/M_RAGENativeUI_Menus_MenuItemListScroller__ctor_3.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="32b2ee6a-d193-459d-b63d-65f3217c8113" Title="MenuItemListScroller Properties" Url="html/Properties_T_RAGENativeUI_Menus_MenuItemListScroller.htm">
+          <HelpTOCNode Title="DefaultText Property " Url="html/P_RAGENativeUI_Menus_MenuItemListScroller_DefaultText.htm" />
+          <HelpTOCNode Title="Items Property " Url="html/P_RAGENativeUI_Menus_MenuItemListScroller_Items.htm" />
+          <HelpTOCNode Title="OptionCount Property " Url="html/P_RAGENativeUI_Menus_MenuItemListScroller_OptionCount.htm" />
+          <HelpTOCNode Title="SelectedItem Property " Url="html/P_RAGENativeUI_Menus_MenuItemListScroller_SelectedItem.htm" />
+          <HelpTOCNode Title="SelectedOptionText Property " Url="html/P_RAGENativeUI_Menus_MenuItemListScroller_SelectedOptionText.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="e3fa3219-fe01-4b18-9ab3-168e0db9b0c7" Title="MenuItemListScroller Methods" Url="html/Methods_T_RAGENativeUI_Menus_MenuItemListScroller.htm">
+          <HelpTOCNode Title="OnPropertyChanged Method " Url="html/M_RAGENativeUI_Menus_MenuItemListScroller_OnPropertyChanged.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="MenuItemListScroller Events" Url="html/Events_T_RAGENativeUI_Menus_MenuItemListScroller.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="4e8e8d26-64fa-4a57-b5c5-319c6179dd69" Title="MenuItemListScroller.ItemCollection Class" Url="html/T_RAGENativeUI_Menus_MenuItemListScroller_ItemCollection.htm">
+        <HelpTOCNode Id="2c920fe7-332e-465a-ae04-068fee727e0f" Title="ItemCollection Constructor " Url="html/Overload_RAGENativeUI_Menus_MenuItemListScroller_ItemCollection__ctor.htm">
+          <HelpTOCNode Title="MenuItemListScroller.ItemCollection Constructor " Url="html/M_RAGENativeUI_Menus_MenuItemListScroller_ItemCollection__ctor.htm" />
+          <HelpTOCNode Title="MenuItemListScroller.ItemCollection Constructor (IEnumerable(Object))" Url="html/M_RAGENativeUI_Menus_MenuItemListScroller_ItemCollection__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ItemCollection Properties" Url="html/Properties_T_RAGENativeUI_Menus_MenuItemListScroller_ItemCollection.htm" />
+        <HelpTOCNode Title="ItemCollection Methods" Url="html/Methods_T_RAGENativeUI_Menus_MenuItemListScroller_ItemCollection.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="e0e3b535-4ac3-425d-801f-0e866738a5c5" Title="MenuItemNumericScroller Class" Url="html/T_RAGENativeUI_Menus_MenuItemNumericScroller.htm">
+        <HelpTOCNode Id="95631a1e-4193-45a0-9915-7d9c4387165c" Title="MenuItemNumericScroller Constructor " Url="html/Overload_RAGENativeUI_Menus_MenuItemNumericScroller__ctor.htm">
+          <HelpTOCNode Title="MenuItemNumericScroller Constructor (String)" Url="html/M_RAGENativeUI_Menus_MenuItemNumericScroller__ctor.htm" />
+          <HelpTOCNode Title="MenuItemNumericScroller Constructor (String, String)" Url="html/M_RAGENativeUI_Menus_MenuItemNumericScroller__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="c5e65df1-5d14-48f6-b280-f2991e9f009d" Title="MenuItemNumericScroller Properties" Url="html/Properties_T_RAGENativeUI_Menus_MenuItemNumericScroller.htm">
+          <HelpTOCNode Title="DecimalPlaces Property " Url="html/P_RAGENativeUI_Menus_MenuItemNumericScroller_DecimalPlaces.htm" />
+          <HelpTOCNode Title="Hexadecimal Property " Url="html/P_RAGENativeUI_Menus_MenuItemNumericScroller_Hexadecimal.htm" />
+          <HelpTOCNode Title="Increment Property " Url="html/P_RAGENativeUI_Menus_MenuItemNumericScroller_Increment.htm" />
+          <HelpTOCNode Title="Maximum Property " Url="html/P_RAGENativeUI_Menus_MenuItemNumericScroller_Maximum.htm" />
+          <HelpTOCNode Title="Minimum Property " Url="html/P_RAGENativeUI_Menus_MenuItemNumericScroller_Minimum.htm" />
+          <HelpTOCNode Title="OptionCount Property " Url="html/P_RAGENativeUI_Menus_MenuItemNumericScroller_OptionCount.htm" />
+          <HelpTOCNode Title="SelectedIndex Property " Url="html/P_RAGENativeUI_Menus_MenuItemNumericScroller_SelectedIndex.htm" />
+          <HelpTOCNode Title="SelectedOptionText Property " Url="html/P_RAGENativeUI_Menus_MenuItemNumericScroller_SelectedOptionText.htm" />
+          <HelpTOCNode Title="ThousandsSeparator Property " Url="html/P_RAGENativeUI_Menus_MenuItemNumericScroller_ThousandsSeparator.htm" />
+          <HelpTOCNode Title="Value Property " Url="html/P_RAGENativeUI_Menus_MenuItemNumericScroller_Value.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="c34a24e6-cb1a-45af-ab37-a940cdc4c332" Title="MenuItemNumericScroller Methods" Url="html/Methods_T_RAGENativeUI_Menus_MenuItemNumericScroller.htm">
+          <HelpTOCNode Title="OnMoveLeft Method " Url="html/M_RAGENativeUI_Menus_MenuItemNumericScroller_OnMoveLeft.htm" />
+          <HelpTOCNode Title="OnMoveRight Method " Url="html/M_RAGENativeUI_Menus_MenuItemNumericScroller_OnMoveRight.htm" />
+          <HelpTOCNode Title="OnPropertyChanged Method " Url="html/M_RAGENativeUI_Menus_MenuItemNumericScroller_OnPropertyChanged.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="MenuItemNumericScroller Events" Url="html/Events_T_RAGENativeUI_Menus_MenuItemNumericScroller.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="62d483d8-07ca-48af-beba-debb7d7ced39" Title="MenuItemsCollection Class" Url="html/T_RAGENativeUI_Menus_MenuItemsCollection.htm">
+        <HelpTOCNode Title="MenuItemsCollection Constructor " Url="html/M_RAGENativeUI_Menus_MenuItemsCollection__ctor.htm" />
+        <HelpTOCNode Id="d19956ed-14d9-4d59-b59f-a6a60df5d285" Title="MenuItemsCollection Properties" Url="html/Properties_T_RAGENativeUI_Menus_MenuItemsCollection.htm">
+          <HelpTOCNode Title="Owner Property " Url="html/P_RAGENativeUI_Menus_MenuItemsCollection_Owner.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="4677cd81-b181-44c2-b9da-b3fda1db6221" Title="MenuItemsCollection Methods" Url="html/Methods_T_RAGENativeUI_Menus_MenuItemsCollection.htm">
+          <HelpTOCNode Title="ClearItems Method " Url="html/M_RAGENativeUI_Menus_MenuItemsCollection_ClearItems.htm" />
+          <HelpTOCNode Id="366ac773-a5c5-4fa7-bea1-31bf5a49f3d5" Title="FindAllByDescription Method " Url="html/Overload_RAGENativeUI_Menus_MenuItemsCollection_FindAllByDescription.htm">
+            <HelpTOCNode Title="FindAllByDescription Method (String)" Url="html/M_RAGENativeUI_Menus_MenuItemsCollection_FindAllByDescription.htm" />
+            <HelpTOCNode Title="FindAllByDescription Method (String, Int32, Int32)" Url="html/M_RAGENativeUI_Menus_MenuItemsCollection_FindAllByDescription_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="55fea36a-e0c2-438c-ad65-eed80e125f04" Title="FindAllByText Method " Url="html/Overload_RAGENativeUI_Menus_MenuItemsCollection_FindAllByText.htm">
+            <HelpTOCNode Title="FindAllByText Method (String)" Url="html/M_RAGENativeUI_Menus_MenuItemsCollection_FindAllByText.htm" />
+            <HelpTOCNode Title="FindAllByText Method (String, Int32, Int32)" Url="html/M_RAGENativeUI_Menus_MenuItemsCollection_FindAllByText_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="59ff9abc-1058-486f-ac60-9ef36434569a" Title="FindByDescription Method " Url="html/Overload_RAGENativeUI_Menus_MenuItemsCollection_FindByDescription.htm">
+            <HelpTOCNode Title="FindByDescription Method (String)" Url="html/M_RAGENativeUI_Menus_MenuItemsCollection_FindByDescription.htm" />
+            <HelpTOCNode Title="FindByDescription Method (String, Int32, Int32)" Url="html/M_RAGENativeUI_Menus_MenuItemsCollection_FindByDescription_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="7e0216bc-7bb1-49c7-b404-516adc917ab8" Title="FindByText Method " Url="html/Overload_RAGENativeUI_Menus_MenuItemsCollection_FindByText.htm">
+            <HelpTOCNode Title="FindByText Method (String)" Url="html/M_RAGENativeUI_Menus_MenuItemsCollection_FindByText.htm" />
+            <HelpTOCNode Title="FindByText Method (String, Int32, Int32)" Url="html/M_RAGENativeUI_Menus_MenuItemsCollection_FindByText_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="InsertItem Method " Url="html/M_RAGENativeUI_Menus_MenuItemsCollection_InsertItem.htm" />
+          <HelpTOCNode Title="RemoveItem Method " Url="html/M_RAGENativeUI_Menus_MenuItemsCollection_RemoveItem.htm" />
+          <HelpTOCNode Title="Replace Method " Url="html/M_RAGENativeUI_Menus_MenuItemsCollection_Replace.htm" />
+          <HelpTOCNode Title="SetItem Method " Url="html/M_RAGENativeUI_Menus_MenuItemsCollection_SetItem.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="a8bab5a2-e7d2-41d1-bb52-c5191b193c0d" Title="MenuItemScroller Class" Url="html/T_RAGENativeUI_Menus_MenuItemScroller.htm">
+        <HelpTOCNode Title="MenuItemScroller Constructor " Url="html/M_RAGENativeUI_Menus_MenuItemScroller__ctor.htm" />
+        <HelpTOCNode Id="a602df49-5d21-4f31-8aa0-d767c6e709b7" Title="MenuItemScroller Properties" Url="html/Properties_T_RAGENativeUI_Menus_MenuItemScroller.htm">
+          <HelpTOCNode Title="OptionCount Property " Url="html/P_RAGENativeUI_Menus_MenuItemScroller_OptionCount.htm" />
+          <HelpTOCNode Title="SelectedIndex Property " Url="html/P_RAGENativeUI_Menus_MenuItemScroller_SelectedIndex.htm" />
+          <HelpTOCNode Title="SelectedOptionText Property " Url="html/P_RAGENativeUI_Menus_MenuItemScroller_SelectedOptionText.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="4e8143a0-c2ac-46bb-a5d1-5be2e18edd10" Title="MenuItemScroller Methods" Url="html/Methods_T_RAGENativeUI_Menus_MenuItemScroller.htm">
+          <HelpTOCNode Title="OnMoveLeft Method " Url="html/M_RAGENativeUI_Menus_MenuItemScroller_OnMoveLeft.htm" />
+          <HelpTOCNode Title="OnMoveRight Method " Url="html/M_RAGENativeUI_Menus_MenuItemScroller_OnMoveRight.htm" />
+          <HelpTOCNode Title="OnSelectedIndexChanged Method " Url="html/M_RAGENativeUI_Menus_MenuItemScroller_OnSelectedIndexChanged.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="3b730676-72cd-44c2-b833-10fd1cc0077c" Title="MenuItemScroller Events" Url="html/Events_T_RAGENativeUI_Menus_MenuItemScroller.htm">
+          <HelpTOCNode Title="SelectedIndexChanged Event" Url="html/E_RAGENativeUI_Menus_MenuItemScroller_SelectedIndexChanged.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="af8c6a66-39a7-4b3a-b9c0-a3de98064790" Title="MenuSoundsSet Class" Url="html/T_RAGENativeUI_Menus_MenuSoundsSet.htm">
+        <HelpTOCNode Title="MenuSoundsSet Constructor " Url="html/M_RAGENativeUI_Menus_MenuSoundsSet__ctor.htm" />
+        <HelpTOCNode Id="64fb1d59-9f7a-4289-9207-29078ae4d5eb" Title="MenuSoundsSet Properties" Url="html/Properties_T_RAGENativeUI_Menus_MenuSoundsSet.htm">
+          <HelpTOCNode Title="Accept Property " Url="html/P_RAGENativeUI_Menus_MenuSoundsSet_Accept.htm" />
+          <HelpTOCNode Title="Back Property " Url="html/P_RAGENativeUI_Menus_MenuSoundsSet_Back.htm" />
+          <HelpTOCNode Title="Down Property " Url="html/P_RAGENativeUI_Menus_MenuSoundsSet_Down.htm" />
+          <HelpTOCNode Title="Error Property " Url="html/P_RAGENativeUI_Menus_MenuSoundsSet_Error.htm" />
+          <HelpTOCNode Title="Left Property " Url="html/P_RAGENativeUI_Menus_MenuSoundsSet_Left.htm" />
+          <HelpTOCNode Title="Right Property " Url="html/P_RAGENativeUI_Menus_MenuSoundsSet_Right.htm" />
+          <HelpTOCNode Title="Up Property " Url="html/P_RAGENativeUI_Menus_MenuSoundsSet_Up.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="MenuSoundsSet Methods" Url="html/Methods_T_RAGENativeUI_Menus_MenuSoundsSet.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="c195a0ea-4089-4f70-b213-5c17a6ec9ef7" Title="ScrollableMenu Class" Url="html/T_RAGENativeUI_Menus_ScrollableMenu.htm">
+        <HelpTOCNode Title="ScrollableMenu Constructor " Url="html/M_RAGENativeUI_Menus_ScrollableMenu__ctor.htm" />
+        <HelpTOCNode Id="aaa393de-7cc7-4bd7-a8e7-a6dcb7d82d27" Title="ScrollableMenu Properties" Url="html/Properties_T_RAGENativeUI_Menus_ScrollableMenu.htm">
+          <HelpTOCNode Title="Pages Property " Url="html/P_RAGENativeUI_Menus_ScrollableMenu_Pages.htm" />
+          <HelpTOCNode Title="ScrollerItem Property " Url="html/P_RAGENativeUI_Menus_ScrollableMenu_ScrollerItem.htm" />
+          <HelpTOCNode Title="SelectedPage Property " Url="html/P_RAGENativeUI_Menus_ScrollableMenu_SelectedPage.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="1a73ad11-a819-4026-af6d-6a2bcf91c2f3" Title="ScrollableMenu Methods" Url="html/Methods_T_RAGENativeUI_Menus_ScrollableMenu.htm">
+          <HelpTOCNode Id="92ad7515-4b68-4220-a30e-543b0b5ffced" Title="Dispose Method " Url="html/Overload_RAGENativeUI_Menus_ScrollableMenu_Dispose.htm">
+            <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/M_RAGENativeUI_Menus_ScrollableMenu_Dispose.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="OnSelectedPageChanged Method " Url="html/M_RAGENativeUI_Menus_ScrollableMenu_OnSelectedPageChanged.htm" />
+          <HelpTOCNode Title="OnVisibleChanged Method " Url="html/M_RAGENativeUI_Menus_ScrollableMenu_OnVisibleChanged.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="66cf080a-5d74-4559-8542-c19eb813e5a5" Title="ScrollableMenu Events" Url="html/Events_T_RAGENativeUI_Menus_ScrollableMenu.htm">
+          <HelpTOCNode Title="SelectedPageChanged Event" Url="html/E_RAGENativeUI_Menus_ScrollableMenu_SelectedPageChanged.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="96fd9da1-57e7-4b8c-9232-06d07fb1106b" Title="ScrollableMenuPage Class" Url="html/T_RAGENativeUI_Menus_ScrollableMenuPage.htm">
+        <HelpTOCNode Title="ScrollableMenuPage Constructor " Url="html/M_RAGENativeUI_Menus_ScrollableMenuPage__ctor.htm" />
+        <HelpTOCNode Id="199d1a80-20b6-47e9-a133-691fde3a0b30" Title="ScrollableMenuPage Properties" Url="html/Properties_T_RAGENativeUI_Menus_ScrollableMenuPage.htm">
+          <HelpTOCNode Title="Items Property " Url="html/P_RAGENativeUI_Menus_ScrollableMenuPage_Items.htm" />
+          <HelpTOCNode Title="Text Property " Url="html/P_RAGENativeUI_Menus_ScrollableMenuPage_Text.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ScrollableMenuPage Methods" Url="html/Methods_T_RAGENativeUI_Menus_ScrollableMenuPage.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="78e44189-2b19-4e70-a8af-ae7a02db71a3" Title="ScrollableMenuPagesCollection Class" Url="html/T_RAGENativeUI_Menus_ScrollableMenuPagesCollection.htm">
+        <HelpTOCNode Title="ScrollableMenuPagesCollection Constructor " Url="html/M_RAGENativeUI_Menus_ScrollableMenuPagesCollection__ctor.htm" />
+        <HelpTOCNode Id="7f8bfe9e-8bb9-44c0-8dda-0ef48d36df85" Title="ScrollableMenuPagesCollection Properties" Url="html/Properties_T_RAGENativeUI_Menus_ScrollableMenuPagesCollection.htm">
+          <HelpTOCNode Title="Owner Property " Url="html/P_RAGENativeUI_Menus_ScrollableMenuPagesCollection_Owner.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ScrollableMenuPagesCollection Methods" Url="html/Methods_T_RAGENativeUI_Menus_ScrollableMenuPagesCollection.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f738ee3b-4879-4e69-98bb-2c5dfc5f1d49" Title="SelectedChangedEventArgs Class" Url="html/T_RAGENativeUI_Menus_SelectedChangedEventArgs.htm">
+        <HelpTOCNode Title="SelectedChangedEventArgs Constructor " Url="html/M_RAGENativeUI_Menus_SelectedChangedEventArgs__ctor.htm" />
+        <HelpTOCNode Id="b4fbc05b-e941-45d7-ac24-e5ee842d75ff" Title="SelectedChangedEventArgs Properties" Url="html/Properties_T_RAGENativeUI_Menus_SelectedChangedEventArgs.htm">
+          <HelpTOCNode Title="IsSelected Property " Url="html/P_RAGENativeUI_Menus_SelectedChangedEventArgs_IsSelected.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="SelectedChangedEventArgs Methods" Url="html/Methods_T_RAGENativeUI_Menus_SelectedChangedEventArgs.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="4f153c4f-cf52-40b1-a520-6098b10b3422" Title="SelectedIndexChangedEventArgs Class" Url="html/T_RAGENativeUI_Menus_SelectedIndexChangedEventArgs.htm">
+        <HelpTOCNode Title="SelectedIndexChangedEventArgs Constructor " Url="html/M_RAGENativeUI_Menus_SelectedIndexChangedEventArgs__ctor.htm" />
+        <HelpTOCNode Id="a19d1b9f-bbf2-459d-b1e4-888bb34d5f6f" Title="SelectedIndexChangedEventArgs Properties" Url="html/Properties_T_RAGENativeUI_Menus_SelectedIndexChangedEventArgs.htm">
+          <HelpTOCNode Title="NewIndex Property " Url="html/P_RAGENativeUI_Menus_SelectedIndexChangedEventArgs_NewIndex.htm" />
+          <HelpTOCNode Title="OldIndex Property " Url="html/P_RAGENativeUI_Menus_SelectedIndexChangedEventArgs_OldIndex.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="SelectedIndexChangedEventArgs Methods" Url="html/Methods_T_RAGENativeUI_Menus_SelectedIndexChangedEventArgs.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="bd19e331-b598-42fc-9aaa-1767aea76d99" Title="SelectedItemChangedEventArgs Class" Url="html/T_RAGENativeUI_Menus_SelectedItemChangedEventArgs.htm">
+        <HelpTOCNode Title="SelectedItemChangedEventArgs Constructor " Url="html/M_RAGENativeUI_Menus_SelectedItemChangedEventArgs__ctor.htm" />
+        <HelpTOCNode Id="29a6ba6a-8ff4-4a22-8974-993ac520c548" Title="SelectedItemChangedEventArgs Properties" Url="html/Properties_T_RAGENativeUI_Menus_SelectedItemChangedEventArgs.htm">
+          <HelpTOCNode Title="NewItem Property " Url="html/P_RAGENativeUI_Menus_SelectedItemChangedEventArgs_NewItem.htm" />
+          <HelpTOCNode Title="OldItem Property " Url="html/P_RAGENativeUI_Menus_SelectedItemChangedEventArgs_OldItem.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="SelectedItemChangedEventArgs Methods" Url="html/Methods_T_RAGENativeUI_Menus_SelectedItemChangedEventArgs.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="0a5bf050-70f3-47e1-bd2c-ba16924f8f5d" Title="SelectedPageChangedEventArgs Class" Url="html/T_RAGENativeUI_Menus_SelectedPageChangedEventArgs.htm">
+        <HelpTOCNode Title="SelectedPageChangedEventArgs Constructor " Url="html/M_RAGENativeUI_Menus_SelectedPageChangedEventArgs__ctor.htm" />
+        <HelpTOCNode Id="d042afe4-435e-4d3a-bd16-03e13c1f0367" Title="SelectedPageChangedEventArgs Properties" Url="html/Properties_T_RAGENativeUI_Menus_SelectedPageChangedEventArgs.htm">
+          <HelpTOCNode Title="NewPage Property " Url="html/P_RAGENativeUI_Menus_SelectedPageChangedEventArgs_NewPage.htm" />
+          <HelpTOCNode Title="OldPage Property " Url="html/P_RAGENativeUI_Menus_SelectedPageChangedEventArgs_OldPage.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="SelectedPageChangedEventArgs Methods" Url="html/Methods_T_RAGENativeUI_Menus_SelectedPageChangedEventArgs.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="13024e46-0142-4ab9-b669-90ca292b1569" Title="VisibleChangedEventArgs Class" Url="html/T_RAGENativeUI_Menus_VisibleChangedEventArgs.htm">
+        <HelpTOCNode Title="VisibleChangedEventArgs Constructor " Url="html/M_RAGENativeUI_Menus_VisibleChangedEventArgs__ctor.htm" />
+        <HelpTOCNode Id="457b4687-fe01-4ef8-afcd-25f18c56be3f" Title="VisibleChangedEventArgs Properties" Url="html/Properties_T_RAGENativeUI_Menus_VisibleChangedEventArgs.htm">
+          <HelpTOCNode Title="IsVisible Property " Url="html/P_RAGENativeUI_Menus_VisibleChangedEventArgs_IsVisible.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="VisibleChangedEventArgs Methods" Url="html/Methods_T_RAGENativeUI_Menus_VisibleChangedEventArgs.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="9c584be2-b3ab-4100-8eec-63051fdebc68" Title="RAGENativeUI.Menus.Themes" Url="html/N_RAGENativeUI_Menus_Themes.htm">
+      <HelpTOCNode Id="5d324be8-dfd5-460b-aab3-f5b216ab31af" Title="MenuDebugTheme Class" Url="html/T_RAGENativeUI_Menus_Themes_MenuDebugTheme.htm">
+        <HelpTOCNode Title="MenuDebugTheme Constructor " Url="html/M_RAGENativeUI_Menus_Themes_MenuDebugTheme__ctor.htm" />
+        <HelpTOCNode Title="MenuDebugTheme Properties" Url="html/Properties_T_RAGENativeUI_Menus_Themes_MenuDebugTheme.htm" />
+        <HelpTOCNode Id="cb454c7e-5672-4dc1-9e72-ea8db9f0515b" Title="MenuDebugTheme Methods" Url="html/Methods_T_RAGENativeUI_Menus_Themes_MenuDebugTheme.htm">
+          <HelpTOCNode Title="Clone Method " Url="html/M_RAGENativeUI_Menus_Themes_MenuDebugTheme_Clone.htm" />
+          <HelpTOCNode Title="Draw Method " Url="html/M_RAGENativeUI_Menus_Themes_MenuDebugTheme_Draw.htm" />
+          <HelpTOCNode Title="GetItemTextColor Method " Url="html/M_RAGENativeUI_Menus_Themes_MenuDebugTheme_GetItemTextColor.htm" />
+          <HelpTOCNode Title="SetItemTextColor Method " Url="html/M_RAGENativeUI_Menus_Themes_MenuDebugTheme_SetItemTextColor.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="3f5a6967-39ac-4a9c-8262-3ab7f4ea09ab" Title="MenuDebugTheme Fields" Url="html/Fields_T_RAGENativeUI_Menus_Themes_MenuDebugTheme.htm">
+          <HelpTOCNode Title="ItemTextColorMetadataKey Field" Url="html/F_RAGENativeUI_Menus_Themes_MenuDebugTheme_ItemTextColorMetadataKey.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="d15184e4-d224-4035-ad5d-d912a81e1828" Title="MenuDefaultTheme Class" Url="html/T_RAGENativeUI_Menus_Themes_MenuDefaultTheme.htm">
+        <HelpTOCNode Title="MenuDefaultTheme Constructor " Url="html/M_RAGENativeUI_Menus_Themes_MenuDefaultTheme__ctor.htm" />
+        <HelpTOCNode Id="3f2082c7-7e5e-4f69-ab1e-34098238f7f6" Title="MenuDefaultTheme Properties" Url="html/Properties_T_RAGENativeUI_Menus_Themes_MenuDefaultTheme.htm">
+          <HelpTOCNode Title="Background Property " Url="html/P_RAGENativeUI_Menus_Themes_MenuDefaultTheme_Background.htm" />
+          <HelpTOCNode Title="BackgroundColor Property " Url="html/P_RAGENativeUI_Menus_Themes_MenuDefaultTheme_BackgroundColor.htm" />
+          <HelpTOCNode Title="Banner Property " Url="html/P_RAGENativeUI_Menus_Themes_MenuDefaultTheme_Banner.htm" />
+          <HelpTOCNode Title="BannerColor Property " Url="html/P_RAGENativeUI_Menus_Themes_MenuDefaultTheme_BannerColor.htm" />
+          <HelpTOCNode Title="DescriptionBackColor Property " Url="html/P_RAGENativeUI_Menus_Themes_MenuDefaultTheme_DescriptionBackColor.htm" />
+          <HelpTOCNode Title="DescriptionBackground Property " Url="html/P_RAGENativeUI_Menus_Themes_MenuDefaultTheme_DescriptionBackground.htm" />
+          <HelpTOCNode Title="DescriptionForeColor Property " Url="html/P_RAGENativeUI_Menus_Themes_MenuDefaultTheme_DescriptionForeColor.htm" />
+          <HelpTOCNode Title="DescriptionSeparatorBarColor Property " Url="html/P_RAGENativeUI_Menus_Themes_MenuDefaultTheme_DescriptionSeparatorBarColor.htm" />
+          <HelpTOCNode Title="ItemDisabledAndSelectedColor Property " Url="html/P_RAGENativeUI_Menus_Themes_MenuDefaultTheme_ItemDisabledAndSelectedColor.htm" />
+          <HelpTOCNode Title="ItemDisabledColor Property " Url="html/P_RAGENativeUI_Menus_Themes_MenuDefaultTheme_ItemDisabledColor.htm" />
+          <HelpTOCNode Title="ItemEnabledAndSelectedColor Property " Url="html/P_RAGENativeUI_Menus_Themes_MenuDefaultTheme_ItemEnabledAndSelectedColor.htm" />
+          <HelpTOCNode Title="ItemEnabledColor Property " Url="html/P_RAGENativeUI_Menus_Themes_MenuDefaultTheme_ItemEnabledColor.htm" />
+          <HelpTOCNode Title="NavigationBar Property " Url="html/P_RAGENativeUI_Menus_Themes_MenuDefaultTheme_NavigationBar.htm" />
+          <HelpTOCNode Title="NavigationBarColor Property " Url="html/P_RAGENativeUI_Menus_Themes_MenuDefaultTheme_NavigationBarColor.htm" />
+          <HelpTOCNode Title="SubtitleBackColor Property " Url="html/P_RAGENativeUI_Menus_Themes_MenuDefaultTheme_SubtitleBackColor.htm" />
+          <HelpTOCNode Title="SubtitleForeColor Property " Url="html/P_RAGENativeUI_Menus_Themes_MenuDefaultTheme_SubtitleForeColor.htm" />
+          <HelpTOCNode Title="UpDownArrows Property " Url="html/P_RAGENativeUI_Menus_Themes_MenuDefaultTheme_UpDownArrows.htm" />
+          <HelpTOCNode Title="UpDownArrowsBackColor Property " Url="html/P_RAGENativeUI_Menus_Themes_MenuDefaultTheme_UpDownArrowsBackColor.htm" />
+          <HelpTOCNode Title="UpDownArrowsForeColor Property " Url="html/P_RAGENativeUI_Menus_Themes_MenuDefaultTheme_UpDownArrowsForeColor.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="41fe3abb-8684-47f8-bcb2-bb024d47af73" Title="MenuDefaultTheme Methods" Url="html/Methods_T_RAGENativeUI_Menus_Themes_MenuDefaultTheme.htm">
+          <HelpTOCNode Title="Clone Method " Url="html/M_RAGENativeUI_Menus_Themes_MenuDefaultTheme_Clone.htm" />
+          <HelpTOCNode Title="Draw Method " Url="html/M_RAGENativeUI_Menus_Themes_MenuDefaultTheme_Draw.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="dffe05f0-f338-4f78-8257-ab8523ad09e1" Title="MenuTheme Class" Url="html/T_RAGENativeUI_Menus_Themes_MenuTheme.htm">
+        <HelpTOCNode Title="MenuTheme Constructor " Url="html/M_RAGENativeUI_Menus_Themes_MenuTheme__ctor.htm" />
+        <HelpTOCNode Id="519815fe-8a91-4bc1-97e7-33efaa866cd3" Title="MenuTheme Properties" Url="html/Properties_T_RAGENativeUI_Menus_Themes_MenuTheme.htm">
+          <HelpTOCNode Title="Menu Property " Url="html/P_RAGENativeUI_Menus_Themes_MenuTheme_Menu.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="97d8d087-50a7-4cdd-9ecf-3207c47d007c" Title="MenuTheme Methods" Url="html/Methods_T_RAGENativeUI_Menus_Themes_MenuTheme.htm">
+          <HelpTOCNode Title="Clone Method " Url="html/M_RAGENativeUI_Menus_Themes_MenuTheme_Clone.htm" />
+          <HelpTOCNode Title="Draw Method " Url="html/M_RAGENativeUI_Menus_Themes_MenuTheme_Draw.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="aa349220-cb1c-4ce2-be8b-fefbf038e31f" Title="RAGENativeUI.Scaleforms" Url="html/N_RAGENativeUI_Scaleforms.htm">
+      <HelpTOCNode Id="b62df11e-ebd1-4736-b0bc-8bf46c70bcc7" Title="BigMessage Class" Url="html/T_RAGENativeUI_Scaleforms_BigMessage.htm">
+        <HelpTOCNode Title="BigMessage Constructor " Url="html/M_RAGENativeUI_Scaleforms_BigMessage__ctor.htm" />
+        <HelpTOCNode Id="e5be5424-65a6-4ae3-8192-6fda196f370a" Title="BigMessage Properties" Url="html/Properties_T_RAGENativeUI_Scaleforms_BigMessage.htm">
+          <HelpTOCNode Title="OutTransition Property " Url="html/P_RAGENativeUI_Scaleforms_BigMessage_OutTransition.htm" />
+          <HelpTOCNode Title="OutTransitionTime Property " Url="html/P_RAGENativeUI_Scaleforms_BigMessage_OutTransitionTime.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="a263f3fb-3f25-4f54-8c45-fb5169cb41da" Title="BigMessage Methods" Url="html/Methods_T_RAGENativeUI_Scaleforms_BigMessage.htm">
+          <HelpTOCNode Title="CallMethodAndShow Method " Url="html/M_RAGENativeUI_Scaleforms_BigMessage_CallMethodAndShow.htm" />
+          <HelpTOCNode Id="6f5e8943-05bf-441b-9717-dbeb3579979b" Title="Draw Method " Url="html/Overload_RAGENativeUI_Scaleforms_BigMessage_Draw.htm">
+            <HelpTOCNode Title="Draw Method (Color)" Url="html/M_RAGENativeUI_Scaleforms_BigMessage_Draw_1.htm" />
+            <HelpTOCNode Title="Draw Method (Vector2, Vector2, Color)" Url="html/M_RAGENativeUI_Scaleforms_BigMessage_Draw.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="Draw3D Method " Url="html/M_RAGENativeUI_Scaleforms_BigMessage_Draw3D.htm" />
+          <HelpTOCNode Title="Hide Method " Url="html/M_RAGENativeUI_Scaleforms_BigMessage_Hide.htm" />
+          <HelpTOCNode Title="SetVerticlePositionOverride Method " Url="html/M_RAGENativeUI_Scaleforms_BigMessage_SetVerticlePositionOverride.htm" />
+          <HelpTOCNode Title="ShowColoredShard Method " Url="html/M_RAGENativeUI_Scaleforms_BigMessage_ShowColoredShard.htm" />
+          <HelpTOCNode Title="ShowMissionPassedMessage Method " Url="html/M_RAGENativeUI_Scaleforms_BigMessage_ShowMissionPassedMessage.htm" />
+          <HelpTOCNode Title="ShowMissionPassedOldMessage Method " Url="html/M_RAGENativeUI_Scaleforms_BigMessage_ShowMissionPassedOldMessage.htm" />
+          <HelpTOCNode Title="ShowMpMessageLarge Method " Url="html/M_RAGENativeUI_Scaleforms_BigMessage_ShowMpMessageLarge.htm" />
+          <HelpTOCNode Title="ShowRankupMessage Method " Url="html/M_RAGENativeUI_Scaleforms_BigMessage_ShowRankupMessage.htm" />
+          <HelpTOCNode Title="ShowSimpleShard Method " Url="html/M_RAGENativeUI_Scaleforms_BigMessage_ShowSimpleShard.htm" />
+          <HelpTOCNode Title="ShowWeaponPurchasedMessage Method " Url="html/M_RAGENativeUI_Scaleforms_BigMessage_ShowWeaponPurchasedMessage.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="BigMessage.OutTransitionType Enumeration" Url="html/T_RAGENativeUI_Scaleforms_BigMessage_OutTransitionType.htm" />
+      <HelpTOCNode Id="da478662-f9d7-43b7-ba48-5963115eed8c" Title="InstructionalButtonControlSlot Class" Url="html/T_RAGENativeUI_Scaleforms_InstructionalButtonControlSlot.htm">
+        <HelpTOCNode Id="2807c6db-394a-4d76-ae78-0c18dd82f8fb" Title="InstructionalButtonControlSlot Constructor " Url="html/Overload_RAGENativeUI_Scaleforms_InstructionalButtonControlSlot__ctor.htm">
+          <HelpTOCNode Title="InstructionalButtonControlSlot Constructor (String, GameControl)" Url="html/M_RAGENativeUI_Scaleforms_InstructionalButtonControlSlot__ctor.htm" />
+          <HelpTOCNode Title="InstructionalButtonControlSlot Constructor (String, Int32, GameControl)" Url="html/M_RAGENativeUI_Scaleforms_InstructionalButtonControlSlot__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="bfb34443-72dd-44f7-ba60-1d4cf8b29b38" Title="InstructionalButtonControlSlot Properties" Url="html/Properties_T_RAGENativeUI_Scaleforms_InstructionalButtonControlSlot.htm">
+          <HelpTOCNode Title="Control Property " Url="html/P_RAGENativeUI_Scaleforms_InstructionalButtonControlSlot_Control.htm" />
+          <HelpTOCNode Title="InputGroup Property " Url="html/P_RAGENativeUI_Scaleforms_InstructionalButtonControlSlot_InputGroup.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="c9f91418-a5e9-4f7e-be73-031c6a78abe3" Title="InstructionalButtonControlSlot Methods" Url="html/Methods_T_RAGENativeUI_Scaleforms_InstructionalButtonControlSlot.htm">
+          <HelpTOCNode Title="GetButtonId Method " Url="html/M_RAGENativeUI_Scaleforms_InstructionalButtonControlSlot_GetButtonId.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="8208893c-cb80-4f21-a91f-3cf818fda4ab" Title="InstructionalButtons Class" Url="html/T_RAGENativeUI_Scaleforms_InstructionalButtons.htm">
+        <HelpTOCNode Title="InstructionalButtons Constructor " Url="html/M_RAGENativeUI_Scaleforms_InstructionalButtons__ctor.htm" />
+        <HelpTOCNode Id="bf940aa7-4c09-461c-becd-cfb1fbc5f142" Title="InstructionalButtons Properties" Url="html/Properties_T_RAGENativeUI_Scaleforms_InstructionalButtons.htm">
+          <HelpTOCNode Title="BackgroundColor Property " Url="html/P_RAGENativeUI_Scaleforms_InstructionalButtons_BackgroundColor.htm" />
+          <HelpTOCNode Title="Layout Property " Url="html/P_RAGENativeUI_Scaleforms_InstructionalButtons_Layout.htm" />
+          <HelpTOCNode Title="Slots Property " Url="html/P_RAGENativeUI_Scaleforms_InstructionalButtons_Slots.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="beca8eaf-d0bb-49b1-a7b7-2a5aeb23c45b" Title="InstructionalButtons Methods" Url="html/Methods_T_RAGENativeUI_Scaleforms_InstructionalButtons.htm">
+          <HelpTOCNode Id="fcca4ad1-25ef-4097-8a43-f5886af60a48" Title="AddSlot Method " Url="html/Overload_RAGENativeUI_Scaleforms_InstructionalButtons_AddSlot.htm">
+            <HelpTOCNode Title="AddSlot Method (InstructionalButtonSlot)" Url="html/M_RAGENativeUI_Scaleforms_InstructionalButtons_AddSlot.htm" />
+            <HelpTOCNode Title="AddSlot Method (String, GameControl)" Url="html/M_RAGENativeUI_Scaleforms_InstructionalButtons_AddSlot_1.htm" />
+            <HelpTOCNode Title="AddSlot Method (String, String)" Url="html/M_RAGENativeUI_Scaleforms_InstructionalButtons_AddSlot_3.htm" />
+            <HelpTOCNode Title="AddSlot Method (String, Int32, GameControl)" Url="html/M_RAGENativeUI_Scaleforms_InstructionalButtons_AddSlot_2.htm" />
+            <HelpTOCNode Title="AddSlot Method (String, String, InstructionalButtonStyle)" Url="html/M_RAGENativeUI_Scaleforms_InstructionalButtons_AddSlot_4.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="eb8e312f-81a4-4421-83fd-ea4788a56f76" Title="Draw Method " Url="html/Overload_RAGENativeUI_Scaleforms_InstructionalButtons_Draw.htm">
+            <HelpTOCNode Title="Draw Method (Color)" Url="html/M_RAGENativeUI_Scaleforms_InstructionalButtons_Draw_1.htm" />
+            <HelpTOCNode Title="Draw Method (Vector2, Vector2, Color)" Url="html/M_RAGENativeUI_Scaleforms_InstructionalButtons_Draw.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="Draw3D Method " Url="html/M_RAGENativeUI_Scaleforms_InstructionalButtons_Draw3D.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="b4968315-b4ef-495b-8c4d-63a32826ea08" Title="InstructionalButtons.InstructionalButtonsSlots Class" Url="html/T_RAGENativeUI_Scaleforms_InstructionalButtons_InstructionalButtonsSlots.htm">
+        <HelpTOCNode Title="InstructionalButtons.InstructionalButtonsSlots Constructor " Url="html/M_RAGENativeUI_Scaleforms_InstructionalButtons_InstructionalButtonsSlots__ctor.htm" />
+        <HelpTOCNode Title="InstructionalButtonsSlots Properties" Url="html/Properties_T_RAGENativeUI_Scaleforms_InstructionalButtons_InstructionalButtonsSlots.htm" />
+        <HelpTOCNode Title="InstructionalButtonsSlots Methods" Url="html/Methods_T_RAGENativeUI_Scaleforms_InstructionalButtons_InstructionalButtonsSlots.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="InstructionalButtons.LayoutType Enumeration" Url="html/T_RAGENativeUI_Scaleforms_InstructionalButtons_LayoutType.htm" />
+      <HelpTOCNode Id="487692b4-838a-484b-b523-3af8f72a606d" Title="InstructionalButtonSlot Class" Url="html/T_RAGENativeUI_Scaleforms_InstructionalButtonSlot.htm">
+        <HelpTOCNode Title="InstructionalButtonSlot Constructor " Url="html/M_RAGENativeUI_Scaleforms_InstructionalButtonSlot__ctor.htm" />
+        <HelpTOCNode Id="4cd5956c-a6d7-4fcb-b97c-f0b9edcbc18d" Title="InstructionalButtonSlot Properties" Url="html/Properties_T_RAGENativeUI_Scaleforms_InstructionalButtonSlot.htm">
+          <HelpTOCNode Title="IsVisible Property " Url="html/P_RAGENativeUI_Scaleforms_InstructionalButtonSlot_IsVisible.htm" />
+          <HelpTOCNode Title="Label Property " Url="html/P_RAGENativeUI_Scaleforms_InstructionalButtonSlot_Label.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="36d8d31f-48db-4ec6-a0a4-0ddb340c54a6" Title="InstructionalButtonSlot Methods" Url="html/Methods_T_RAGENativeUI_Scaleforms_InstructionalButtonSlot.htm">
+          <HelpTOCNode Title="GetButtonId Method " Url="html/M_RAGENativeUI_Scaleforms_InstructionalButtonSlot_GetButtonId.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="InstructionalButtonStyle Enumeration" Url="html/T_RAGENativeUI_Scaleforms_InstructionalButtonStyle.htm" />
+      <HelpTOCNode Id="650fdd44-8e58-4b40-ae17-8cf1d29dd4c8" Title="InstructionalButtonTextSlot Class" Url="html/T_RAGENativeUI_Scaleforms_InstructionalButtonTextSlot.htm">
+        <HelpTOCNode Id="afbd69c8-76bf-472f-8078-69f0707fefa0" Title="InstructionalButtonTextSlot Constructor " Url="html/Overload_RAGENativeUI_Scaleforms_InstructionalButtonTextSlot__ctor.htm">
+          <HelpTOCNode Title="InstructionalButtonTextSlot Constructor (String, String)" Url="html/M_RAGENativeUI_Scaleforms_InstructionalButtonTextSlot__ctor.htm" />
+          <HelpTOCNode Title="InstructionalButtonTextSlot Constructor (String, String, InstructionalButtonStyle)" Url="html/M_RAGENativeUI_Scaleforms_InstructionalButtonTextSlot__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="e08dd8b8-5ad5-41fc-a053-2c7070f6eda2" Title="InstructionalButtonTextSlot Properties" Url="html/Properties_T_RAGENativeUI_Scaleforms_InstructionalButtonTextSlot.htm">
+          <HelpTOCNode Title="Style Property " Url="html/P_RAGENativeUI_Scaleforms_InstructionalButtonTextSlot_Style.htm" />
+          <HelpTOCNode Title="Text Property " Url="html/P_RAGENativeUI_Scaleforms_InstructionalButtonTextSlot_Text.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="51ada709-17cb-49b4-8faf-c837be58dd2f" Title="InstructionalButtonTextSlot Methods" Url="html/Methods_T_RAGENativeUI_Scaleforms_InstructionalButtonTextSlot.htm">
+          <HelpTOCNode Title="GetButtonId Method " Url="html/M_RAGENativeUI_Scaleforms_InstructionalButtonTextSlot_GetButtonId.htm" />
+          <HelpTOCNode Title="GetStyleButtonIdPrefix Method " Url="html/M_RAGENativeUI_Scaleforms_InstructionalButtonTextSlot_GetStyleButtonIdPrefix.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="45913be9-8fb6-4463-b8f2-def24c83b632" Title="MissionPassedScreen Class" Url="html/T_RAGENativeUI_Scaleforms_MissionPassedScreen.htm">
+        <HelpTOCNode Title="MissionPassedScreen Constructor " Url="html/M_RAGENativeUI_Scaleforms_MissionPassedScreen__ctor.htm" />
+        <HelpTOCNode Id="eabe3d6c-183b-4e14-bf4c-8c086030cfdc" Title="MissionPassedScreen Properties" Url="html/Properties_T_RAGENativeUI_Scaleforms_MissionPassedScreen.htm">
+          <HelpTOCNode Title="BigMessage Property " Url="html/P_RAGENativeUI_Scaleforms_MissionPassedScreen_BigMessage.htm" />
+          <HelpTOCNode Title="ButtonPressedSound Property " Url="html/P_RAGENativeUI_Scaleforms_MissionPassedScreen_ButtonPressedSound.htm" />
+          <HelpTOCNode Title="CompletionMedalColor Property " Url="html/P_RAGENativeUI_Scaleforms_MissionPassedScreen_CompletionMedalColor.htm" />
+          <HelpTOCNode Title="CompletionPercentage Property " Url="html/P_RAGENativeUI_Scaleforms_MissionPassedScreen_CompletionPercentage.htm" />
+          <HelpTOCNode Title="CompletionText Property " Url="html/P_RAGENativeUI_Scaleforms_MissionPassedScreen_CompletionText.htm" />
+          <HelpTOCNode Title="ContinueControl Property " Url="html/P_RAGENativeUI_Scaleforms_MissionPassedScreen_ContinueControl.htm" />
+          <HelpTOCNode Title="ExpandControl Property " Url="html/P_RAGENativeUI_Scaleforms_MissionPassedScreen_ExpandControl.htm" />
+          <HelpTOCNode Title="Fiber Property " Url="html/P_RAGENativeUI_Scaleforms_MissionPassedScreen_Fiber.htm" />
+          <HelpTOCNode Title="InstructionalButtons Property " Url="html/P_RAGENativeUI_Scaleforms_MissionPassedScreen_InstructionalButtons.htm" />
+          <HelpTOCNode Title="IsCompletionVisible Property " Url="html/P_RAGENativeUI_Scaleforms_MissionPassedScreen_IsCompletionVisible.htm" />
+          <HelpTOCNode Title="IsVisible Property " Url="html/P_RAGENativeUI_Scaleforms_MissionPassedScreen_IsVisible.htm" />
+          <HelpTOCNode Title="Items Property " Url="html/P_RAGENativeUI_Scaleforms_MissionPassedScreen_Items.htm" />
+          <HelpTOCNode Title="ShownEffect Property " Url="html/P_RAGENativeUI_Scaleforms_MissionPassedScreen_ShownEffect.htm" />
+          <HelpTOCNode Title="Subtitle Property " Url="html/P_RAGENativeUI_Scaleforms_MissionPassedScreen_Subtitle.htm" />
+          <HelpTOCNode Title="Title Property " Url="html/P_RAGENativeUI_Scaleforms_MissionPassedScreen_Title.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="fdee9019-1a9e-482f-b82e-9a4753d15a88" Title="MissionPassedScreen Methods" Url="html/Methods_T_RAGENativeUI_Scaleforms_MissionPassedScreen.htm">
+          <HelpTOCNode Title="Dispose Method " Url="html/M_RAGENativeUI_Scaleforms_MissionPassedScreen_Dispose.htm" />
+          <HelpTOCNode Title="Hide Method " Url="html/M_RAGENativeUI_Scaleforms_MissionPassedScreen_Hide.htm" />
+          <HelpTOCNode Title="OnContinued Method " Url="html/M_RAGENativeUI_Scaleforms_MissionPassedScreen_OnContinued.htm" />
+          <HelpTOCNode Title="Show Method " Url="html/M_RAGENativeUI_Scaleforms_MissionPassedScreen_Show.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="5193945b-be14-44fc-a5fe-d163d074e260" Title="MissionPassedScreen Events" Url="html/Events_T_RAGENativeUI_Scaleforms_MissionPassedScreen.htm">
+          <HelpTOCNode Title="Continued Event" Url="html/E_RAGENativeUI_Scaleforms_MissionPassedScreen_Continued.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="23e4b909-3754-46ab-996a-23df0eab9b15" Title="MissionPassedScreenItem Class" Url="html/T_RAGENativeUI_Scaleforms_MissionPassedScreenItem.htm">
+        <HelpTOCNode Id="fb9c11f0-75f9-49e0-9c87-3015556e47f0" Title="MissionPassedScreenItem Constructor " Url="html/Overload_RAGENativeUI_Scaleforms_MissionPassedScreenItem__ctor.htm">
+          <HelpTOCNode Title="MissionPassedScreenItem Constructor (String)" Url="html/M_RAGENativeUI_Scaleforms_MissionPassedScreenItem__ctor.htm" />
+          <HelpTOCNode Title="MissionPassedScreenItem Constructor (String, String)" Url="html/M_RAGENativeUI_Scaleforms_MissionPassedScreenItem__ctor_1.htm" />
+          <HelpTOCNode Title="MissionPassedScreenItem Constructor (String, String, MissionPassedScreenItem.TickboxState)" Url="html/M_RAGENativeUI_Scaleforms_MissionPassedScreenItem__ctor_2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="9b7d977f-2610-4279-9185-1786dc324434" Title="MissionPassedScreenItem Properties" Url="html/Properties_T_RAGENativeUI_Scaleforms_MissionPassedScreenItem.htm">
+          <HelpTOCNode Title="Label Property " Url="html/P_RAGENativeUI_Scaleforms_MissionPassedScreenItem_Label.htm" />
+          <HelpTOCNode Title="Status Property " Url="html/P_RAGENativeUI_Scaleforms_MissionPassedScreenItem_Status.htm" />
+          <HelpTOCNode Title="Tickbox Property " Url="html/P_RAGENativeUI_Scaleforms_MissionPassedScreenItem_Tickbox.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="MissionPassedScreenItem Methods" Url="html/Methods_T_RAGENativeUI_Scaleforms_MissionPassedScreenItem.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="MissionPassedScreenItem.TickboxState Enumeration" Url="html/T_RAGENativeUI_Scaleforms_MissionPassedScreenItem_TickboxState.htm" />
+      <HelpTOCNode Id="b510ac0e-2549-4700-87fc-90af6b20cac6" Title="MissionPassedScreenItemsCollection Class" Url="html/T_RAGENativeUI_Scaleforms_MissionPassedScreenItemsCollection.htm">
+        <HelpTOCNode Title="MissionPassedScreenItemsCollection Constructor " Url="html/M_RAGENativeUI_Scaleforms_MissionPassedScreenItemsCollection__ctor.htm" />
+        <HelpTOCNode Title="MissionPassedScreenItemsCollection Properties" Url="html/Properties_T_RAGENativeUI_Scaleforms_MissionPassedScreenItemsCollection.htm" />
+        <HelpTOCNode Title="MissionPassedScreenItemsCollection Methods" Url="html/Methods_T_RAGENativeUI_Scaleforms_MissionPassedScreenItemsCollection.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="8ad45c31-581b-4ec9-bd3b-6bc43d6697e4" Title="Scaleform Class" Url="html/T_RAGENativeUI_Scaleforms_Scaleform.htm">
+        <HelpTOCNode Title="Scaleform Constructor " Url="html/M_RAGENativeUI_Scaleforms_Scaleform__ctor.htm" />
+        <HelpTOCNode Id="910ecef1-d421-4d8f-a922-2141b314be9f" Title="Scaleform Properties" Url="html/Properties_T_RAGENativeUI_Scaleforms_Scaleform.htm">
+          <HelpTOCNode Title="Handle Property " Url="html/P_RAGENativeUI_Scaleforms_Scaleform_Handle.htm" />
+          <HelpTOCNode Title="IsLoaded Property " Url="html/P_RAGENativeUI_Scaleforms_Scaleform_IsLoaded.htm" />
+          <HelpTOCNode Title="Name Property " Url="html/P_RAGENativeUI_Scaleforms_Scaleform_Name.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="3b4fb074-ebf1-4633-b969-1a98f2eef88a" Title="Scaleform Methods" Url="html/Methods_T_RAGENativeUI_Scaleforms_Scaleform.htm">
+          <HelpTOCNode Id="5e1a0f0b-d330-4f15-8de9-f943223c3f5e" Title="CallMethod Method " Url="html/Overload_RAGENativeUI_Scaleforms_Scaleform_CallMethod.htm">
+            <HelpTOCNode Title="CallMethod Method (String)" Url="html/M_RAGENativeUI_Scaleforms_Scaleform_CallMethod.htm" />
+            <HelpTOCNode Title="CallMethod Method (String, Object[])" Url="html/M_RAGENativeUI_Scaleforms_Scaleform_CallMethod_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="Dismiss Method " Url="html/M_RAGENativeUI_Scaleforms_Scaleform_Dismiss.htm" />
+          <HelpTOCNode Id="7eae13e1-3e20-4915-94a3-52093c471e51" Title="Draw Method " Url="html/Overload_RAGENativeUI_Scaleforms_Scaleform_Draw.htm">
+            <HelpTOCNode Title="Draw Method " Url="html/M_RAGENativeUI_Scaleforms_Scaleform_Draw.htm" />
+            <HelpTOCNode Title="Draw Method (Color)" Url="html/M_RAGENativeUI_Scaleforms_Scaleform_Draw_3.htm" />
+            <HelpTOCNode Title="Draw Method (Vector2, Vector2)" Url="html/M_RAGENativeUI_Scaleforms_Scaleform_Draw_1.htm" />
+            <HelpTOCNode Title="Draw Method (Vector2, Vector2, Color)" Url="html/M_RAGENativeUI_Scaleforms_Scaleform_Draw_2.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="Draw3D Method " Url="html/M_RAGENativeUI_Scaleforms_Scaleform_Draw3D.htm" />
+          <HelpTOCNode Title="Load Method " Url="html/M_RAGENativeUI_Scaleforms_Scaleform_Load.htm" />
+          <HelpTOCNode Title="LoadAndWait Method " Url="html/M_RAGENativeUI_Scaleforms_Scaleform_LoadAndWait.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="718c6a23-82ff-4bb8-9e1a-a81189834c15" Title="RAGENativeUI.TimerBars" Url="html/N_RAGENativeUI_TimerBars.htm">
+      <HelpTOCNode Id="de3cfc1e-502f-49ca-9f09-29f141ed89dc" Title="CheckpointsTimerBar Class" Url="html/T_RAGENativeUI_TimerBars_CheckpointsTimerBar.htm">
+        <HelpTOCNode Title="CheckpointsTimerBar Constructor " Url="html/M_RAGENativeUI_TimerBars_CheckpointsTimerBar__ctor.htm" />
+        <HelpTOCNode Id="1f764967-c2ed-4a89-8a57-f0448cfc0630" Title="CheckpointsTimerBar Properties" Url="html/Properties_T_RAGENativeUI_TimerBars_CheckpointsTimerBar.htm">
+          <HelpTOCNode Title="Checkpoints Property " Url="html/P_RAGENativeUI_TimerBars_CheckpointsTimerBar_Checkpoints.htm" />
+          <HelpTOCNode Title="SmallHeight Property " Url="html/P_RAGENativeUI_TimerBars_CheckpointsTimerBar_SmallHeight.htm" />
+          <HelpTOCNode Title="VisibleCheckpoints Property " Url="html/P_RAGENativeUI_TimerBars_CheckpointsTimerBar_VisibleCheckpoints.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="57855537-c649-493e-80f8-3c3b1d9029b2" Title="CheckpointsTimerBar Methods" Url="html/Methods_T_RAGENativeUI_TimerBars_CheckpointsTimerBar.htm">
+          <HelpTOCNode Title="Draw Method " Url="html/M_RAGENativeUI_TimerBars_CheckpointsTimerBar_Draw.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="2ec54f3c-b356-4e85-9bb0-5f3f7d2e3924" Title="CheckpointsTimerBar Fields" Url="html/Fields_T_RAGENativeUI_TimerBars_CheckpointsTimerBar.htm">
+          <HelpTOCNode Title="MaxCheckpoints Field" Url="html/F_RAGENativeUI_TimerBars_CheckpointsTimerBar_MaxCheckpoints.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="57a9b1e2-e1b3-481f-8b59-65289c064bbd" Title="CheckpointsTimerBar.Checkpoint Structure" Url="html/T_RAGENativeUI_TimerBars_CheckpointsTimerBar_Checkpoint.htm">
+        <HelpTOCNode Id="0fe8e612-0c62-4ecd-abc1-603b641c69bf" Title="Checkpoint Properties" Url="html/Properties_T_RAGENativeUI_TimerBars_CheckpointsTimerBar_Checkpoint.htm">
+          <HelpTOCNode Title="CompletedColor Property " Url="html/P_RAGENativeUI_TimerBars_CheckpointsTimerBar_Checkpoint_CompletedColor.htm" />
+          <HelpTOCNode Title="CrossColor Property " Url="html/P_RAGENativeUI_TimerBars_CheckpointsTimerBar_Checkpoint_CrossColor.htm" />
+          <HelpTOCNode Title="HasCross Property " Url="html/P_RAGENativeUI_TimerBars_CheckpointsTimerBar_Checkpoint_HasCross.htm" />
+          <HelpTOCNode Title="IsCompleted Property " Url="html/P_RAGENativeUI_TimerBars_CheckpointsTimerBar_Checkpoint_IsCompleted.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Checkpoint Methods" Url="html/Methods_T_RAGENativeUI_TimerBars_CheckpointsTimerBar_Checkpoint.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="bc7c0b62-4288-42e2-b88b-073fd9f5869b" Title="IconsTimerBar Class" Url="html/T_RAGENativeUI_TimerBars_IconsTimerBar.htm">
+        <HelpTOCNode Title="IconsTimerBar Constructor " Url="html/M_RAGENativeUI_TimerBars_IconsTimerBar__ctor.htm" />
+        <HelpTOCNode Id="13b36103-0985-4d68-8ee9-74c0dc6cde1b" Title="IconsTimerBar Properties" Url="html/Properties_T_RAGENativeUI_TimerBars_IconsTimerBar.htm">
+          <HelpTOCNode Title="Icons Property " Url="html/P_RAGENativeUI_TimerBars_IconsTimerBar_Icons.htm" />
+          <HelpTOCNode Title="Spacing Property " Url="html/P_RAGENativeUI_TimerBars_IconsTimerBar_Spacing.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="f9d97931-b39f-4836-ac6b-75b860271dae" Title="IconsTimerBar Methods" Url="html/Methods_T_RAGENativeUI_TimerBars_IconsTimerBar.htm">
+          <HelpTOCNode Title="Draw Method " Url="html/M_RAGENativeUI_TimerBars_IconsTimerBar_Draw.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="d76a9df1-ef2f-4696-b66a-8034282b4b9b" Title="LabeledTimerBar Class" Url="html/T_RAGENativeUI_TimerBars_LabeledTimerBar.htm">
+        <HelpTOCNode Title="LabeledTimerBar Constructor " Url="html/M_RAGENativeUI_TimerBars_LabeledTimerBar__ctor.htm" />
+        <HelpTOCNode Id="5f3fd671-292e-40b6-bc1f-9ae450a9c8b7" Title="LabeledTimerBar Properties" Url="html/Properties_T_RAGENativeUI_TimerBars_LabeledTimerBar.htm">
+          <HelpTOCNode Title="Label Property " Url="html/P_RAGENativeUI_TimerBars_LabeledTimerBar_Label.htm" />
+          <HelpTOCNode Title="LabelColor Property " Url="html/P_RAGENativeUI_TimerBars_LabeledTimerBar_LabelColor.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="66ac9b39-0a89-4d89-a111-7fd354db918f" Title="LabeledTimerBar Methods" Url="html/Methods_T_RAGENativeUI_TimerBars_LabeledTimerBar.htm">
+          <HelpTOCNode Title="Draw Method " Url="html/M_RAGENativeUI_TimerBars_LabeledTimerBar_Draw.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="cd99a6bf-4a1e-45ed-8363-29207e564020" Title="ProgressTimerBar Class" Url="html/T_RAGENativeUI_TimerBars_ProgressTimerBar.htm">
+        <HelpTOCNode Id="6596d33d-3db8-4f72-995c-1d59936fa300" Title="ProgressTimerBar Constructor " Url="html/Overload_RAGENativeUI_TimerBars_ProgressTimerBar__ctor.htm">
+          <HelpTOCNode Title="ProgressTimerBar Constructor (String)" Url="html/M_RAGENativeUI_TimerBars_ProgressTimerBar__ctor.htm" />
+          <HelpTOCNode Title="ProgressTimerBar Constructor (String, Color, Color)" Url="html/M_RAGENativeUI_TimerBars_ProgressTimerBar__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="5d82a7aa-b9a9-4541-9d22-0a24aaadcf8a" Title="ProgressTimerBar Properties" Url="html/Properties_T_RAGENativeUI_TimerBars_ProgressTimerBar.htm">
+          <HelpTOCNode Title="BackColor Property " Url="html/P_RAGENativeUI_TimerBars_ProgressTimerBar_BackColor.htm" />
+          <HelpTOCNode Title="ForeColor Property " Url="html/P_RAGENativeUI_TimerBars_ProgressTimerBar_ForeColor.htm" />
+          <HelpTOCNode Title="Markers Property " Url="html/P_RAGENativeUI_TimerBars_ProgressTimerBar_Markers.htm" />
+          <HelpTOCNode Title="MarkersColor Property " Url="html/P_RAGENativeUI_TimerBars_ProgressTimerBar_MarkersColor.htm" />
+          <HelpTOCNode Title="Percentage Property " Url="html/P_RAGENativeUI_TimerBars_ProgressTimerBar_Percentage.htm" />
+          <HelpTOCNode Title="SmallHeight Property " Url="html/P_RAGENativeUI_TimerBars_ProgressTimerBar_SmallHeight.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="6648b490-2749-4105-a312-dd6f90cf29ef" Title="ProgressTimerBar Methods" Url="html/Methods_T_RAGENativeUI_TimerBars_ProgressTimerBar.htm">
+          <HelpTOCNode Title="Draw Method " Url="html/M_RAGENativeUI_TimerBars_ProgressTimerBar_Draw.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="0db34c48-2b55-48c4-90cf-a92de44563bb" Title="TextTimerBar Class" Url="html/T_RAGENativeUI_TimerBars_TextTimerBar.htm">
+        <HelpTOCNode Title="TextTimerBar Constructor " Url="html/M_RAGENativeUI_TimerBars_TextTimerBar__ctor.htm" />
+        <HelpTOCNode Id="9cd29d1b-135c-47d3-879d-5018f65cd4e3" Title="TextTimerBar Properties" Url="html/Properties_T_RAGENativeUI_TimerBars_TextTimerBar.htm">
+          <HelpTOCNode Title="Icon Property " Url="html/P_RAGENativeUI_TimerBars_TextTimerBar_Icon.htm" />
+          <HelpTOCNode Title="Text Property " Url="html/P_RAGENativeUI_TimerBars_TextTimerBar_Text.htm" />
+          <HelpTOCNode Title="TextColor Property " Url="html/P_RAGENativeUI_TimerBars_TextTimerBar_TextColor.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="5ea13e6c-b488-4020-9f91-2ff7459f7393" Title="TextTimerBar Methods" Url="html/Methods_T_RAGENativeUI_TimerBars_TextTimerBar.htm">
+          <HelpTOCNode Title="Draw Method " Url="html/M_RAGENativeUI_TimerBars_TextTimerBar_Draw.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="e4ff714f-c0d6-402c-a84b-b605dd817310" Title="TimerBar Class" Url="html/T_RAGENativeUI_TimerBars_TimerBar.htm">
+        <HelpTOCNode Title="TimerBar Constructor " Url="html/M_RAGENativeUI_TimerBars_TimerBar__ctor.htm" />
+        <HelpTOCNode Id="905e86c9-e864-4b2b-b6c9-fdd3f72f89ee" Title="TimerBar Properties" Url="html/Properties_T_RAGENativeUI_TimerBars_TimerBar.htm">
+          <HelpTOCNode Title="HighlightColor Property " Url="html/P_RAGENativeUI_TimerBars_TimerBar_HighlightColor.htm" />
+          <HelpTOCNode Title="IsDisposed Property " Url="html/P_RAGENativeUI_TimerBars_TimerBar_IsDisposed.htm" />
+          <HelpTOCNode Title="IsVisible Property " Url="html/P_RAGENativeUI_TimerBars_TimerBar_IsVisible.htm" />
+          <HelpTOCNode Title="OrderPriority Property " Url="html/P_RAGENativeUI_TimerBars_TimerBar_OrderPriority.htm" />
+          <HelpTOCNode Title="SmallHeight Property " Url="html/P_RAGENativeUI_TimerBars_TimerBar_SmallHeight.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="78252544-de01-4970-9136-f0297b1f4357" Title="TimerBar Methods" Url="html/Methods_T_RAGENativeUI_TimerBars_TimerBar.htm">
+          <HelpTOCNode Id="ba9071d7-895a-4b4b-9afe-6fb92ba3d1d9" Title="Dispose Method " Url="html/Overload_RAGENativeUI_TimerBars_TimerBar_Dispose.htm">
+            <HelpTOCNode Title="Dispose Method " Url="html/M_RAGENativeUI_TimerBars_TimerBar_Dispose.htm" />
+            <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/M_RAGENativeUI_TimerBars_TimerBar_Dispose_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="Draw Method " Url="html/M_RAGENativeUI_TimerBars_TimerBar_Draw.htm" />
+          <HelpTOCNode Title="Finalize Method " Url="html/M_RAGENativeUI_TimerBars_TimerBar_Finalize.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="7aeba5f4-0f89-42d6-a205-453fe9b66926" Title="TimerBar Fields" Url="html/Fields_T_RAGENativeUI_TimerBars_TimerBar.htm">
+          <HelpTOCNode Title="DefaultOrderPriority Field" Url="html/F_RAGENativeUI_TimerBars_TimerBar_DefaultOrderPriority.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="35ea553a-dbb2-4dfb-993e-6529d2dd408d" Title="TimerBarIcon Class" Url="html/T_RAGENativeUI_TimerBars_TimerBarIcon.htm">
+        <HelpTOCNode Title="TimerBarIcon Constructor " Url="html/M_RAGENativeUI_TimerBars_TimerBarIcon__ctor.htm" />
+        <HelpTOCNode Id="0674a19a-0da2-4b1d-b456-a1a0f443bd70" Title="TimerBarIcon Properties" Url="html/Properties_T_RAGENativeUI_TimerBars_TimerBarIcon.htm">
+          <HelpTOCNode Title="Color Property " Url="html/P_RAGENativeUI_TimerBars_TimerBarIcon_Color.htm" />
+          <HelpTOCNode Title="Size Property " Url="html/P_RAGENativeUI_TimerBars_TimerBarIcon_Size.htm" />
+          <HelpTOCNode Title="Texture Property " Url="html/P_RAGENativeUI_TimerBars_TimerBarIcon_Texture.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="TimerBarIcon Methods" Url="html/Methods_T_RAGENativeUI_TimerBars_TimerBarIcon.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="1646c770-4cff-476d-9691-f44388965925" Title="TimerBarIcons Class" Url="html/T_RAGENativeUI_TimerBars_TimerBarIcons.htm">
+        <HelpTOCNode Id="14f96ea6-a992-456a-b382-9eaa2cae8e8c" Title="TimerBarIcons Properties" Url="html/Properties_T_RAGENativeUI_TimerBars_TimerBarIcons.htm">
+          <HelpTOCNode Title="Beast Property " Url="html/P_RAGENativeUI_TimerBars_TimerBarIcons_Beast.htm" />
+          <HelpTOCNode Title="Boost Property " Url="html/P_RAGENativeUI_TimerBars_TimerBarIcons_Boost.htm" />
+          <HelpTOCNode Title="Cross Property " Url="html/P_RAGENativeUI_TimerBars_TimerBarIcons_Cross.htm" />
+          <HelpTOCNode Title="Hidden Property " Url="html/P_RAGENativeUI_TimerBars_TimerBarIcons_Hidden.htm" />
+          <HelpTOCNode Title="Hop Property " Url="html/P_RAGENativeUI_TimerBars_TimerBarIcons_Hop.htm" />
+          <HelpTOCNode Title="MachineGun Property " Url="html/P_RAGENativeUI_TimerBars_TimerBarIcons_MachineGun.htm" />
+          <HelpTOCNode Title="Parachute Property " Url="html/P_RAGENativeUI_TimerBars_TimerBarIcons_Parachute.htm" />
+          <HelpTOCNode Title="Random Property " Url="html/P_RAGENativeUI_TimerBars_TimerBarIcons_Random.htm" />
+          <HelpTOCNode Title="RocketBoost Property " Url="html/P_RAGENativeUI_TimerBars_TimerBarIcons_RocketBoost.htm" />
+          <HelpTOCNode Title="Rockets Property " Url="html/P_RAGENativeUI_TimerBars_TimerBarIcons_Rockets.htm" />
+          <HelpTOCNode Title="RP Property " Url="html/P_RAGENativeUI_TimerBars_TimerBarIcons_RP.htm" />
+          <HelpTOCNode Title="SlowTime Property " Url="html/P_RAGENativeUI_TimerBars_TimerBarIcons_SlowTime.htm" />
+          <HelpTOCNode Title="Spikes Property " Url="html/P_RAGENativeUI_TimerBars_TimerBarIcons_Spikes.htm" />
+          <HelpTOCNode Title="Swap Property " Url="html/P_RAGENativeUI_TimerBars_TimerBarIcons_Swap.htm" />
+          <HelpTOCNode Title="Testosterone Property " Url="html/P_RAGENativeUI_TimerBars_TimerBarIcons_Testosterone.htm" />
+          <HelpTOCNode Title="Thermal Property " Url="html/P_RAGENativeUI_TimerBars_TimerBarIcons_Thermal.htm" />
+          <HelpTOCNode Title="Tick Property " Url="html/P_RAGENativeUI_TimerBars_TimerBarIcons_Tick.htm" />
+          <HelpTOCNode Title="Time Property " Url="html/P_RAGENativeUI_TimerBars_TimerBarIcons_Time.htm" />
+          <HelpTOCNode Title="Weed Property " Url="html/P_RAGENativeUI_TimerBars_TimerBarIcons_Weed.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="63c54ac7-35e1-4cce-916a-dbb1dc8eea6e" Title="TimerBarIcons Fields" Url="html/Fields_T_RAGENativeUI_TimerBars_TimerBarIcons.htm">
+          <HelpTOCNode Title="HomingRocket Field" Url="html/F_RAGENativeUI_TimerBars_TimerBarIcons_HomingRocket.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
